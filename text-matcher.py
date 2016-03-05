@@ -2,9 +2,13 @@
 # coding: utf-8
 
 import nltk
-import re
-import difflib
-from nltk.util import ngrams
+import re 
+import os
+import glob
+import difflib 
+import logging
+import itertools
+from nltk.util import ngrams 
 from difflib import SequenceMatcher
 from string import punctuation
 from termcolor import colored
@@ -84,7 +88,9 @@ class Matcher:
         numBlocks = len(highMatchingBlocks)
         self.numMatches = numBlocks
         
-        print('%s total matches found.' % numBlocks)
+        if numBlocks > 0: 
+            print('%s total matches found.' % numBlocks)
+
         for num, match in enumerate(highMatchingBlocks): 
             out = self.getMatch(match, self.textA, self.textB, 3)
             print('\n')
@@ -97,25 +103,67 @@ class Matcher:
 # myMatch = Matcher('texts/yeats.txt', 'texts/kjv.txt', 2, 4)
 # myMatch.match()
 
+#maxcafe2020
+
+def getFiles(path): 
+    """ 
+    Determines whether a path is a file or directory. 
+    If it's a directory, it gets a list of all the text files 
+    in that directory, recursively. If not, it gets the file. 
+    """
+
+    if os.path.isfile(path): 
+        return [path]
+    elif os.path.isdir(path): 
+        # Get list of all files in dir, recursively. 
+        return glob.glob(path + "/**/*.txt", recursive=True)
+    else: 
+        raise click.ClickException("The path %s doesn't appear to be a file or directory" % path) 
 
 
 @click.command()
-@click.argument('text1', type=click.Path(exists=True))
-@click.argument('text2', type=click.Path(exists=True))
+@click.argument('text1')
+@click.argument('text2') 
 @click.option('-t', '--threshold', type=int, default=2, help='The shortest length of match to include.')
 @click.option('-n', '--ngrams', type=int, default=3, help='The ngram n-value to match against.')
 @click.option('-l', '--logfile', default='log.txt', help='The name of the log file to write to.')
-def cli(text1, text2, threshold, ngrams, logfile):
+@click.option('--verbose', is_flag=True, help='Whether to enable verbose mode, giving more information.')
+def cli(text1, text2, threshold, ngrams, logfile, verbose):
     """ This program finds similar text in two text files. """
-    myMatch = Matcher(text1, text2, threshold, ngrams)
-    myMatch.match()
 
-    # Write the log
-    line = [text1, text2, str(threshold), str(ngrams), str(myMatch.numMatches)]
-    line = ",".join(line) + '\n'
-    f = open(logfile, 'a')
-    f.write(line)
-    f.close()
+    #Determine whether the given path is a file or directory. 
+
+    texts1 = getFiles(text1)
+    texts2 = getFiles(text2) 
+
+    if verbose: 
+        logging.basicConfig(level=logging.DEBUG)
+
+    logging.debug('Comparing this/these text(s): %s' % str(texts1))
+    logging.debug('with this/these text(s): %s' % str(texts2))
+
+    pairs = list(itertools.product(texts1, texts2))
+
+    numPairs = len(pairs) 
+
+    logging.debug('Comparing %s pairs.' % numPairs)
+    logging.debug('List of pairs to compare: %s' % pairs)
+
+    for index, pair in enumerate(pairs): 
+        logging.debug('Now comparing pair %s of %s.' % (index, numPairs))
+        logging.debug('Comparing %s with %s.' % (pair[0], pair[1]))
+
+        # Do the matching. 
+        myMatch = Matcher(pair[0], pair[1], threshold, ngrams)
+        myMatch.match()
+
+        # Write to the log, but only if a match is found.
+        if myMatch.numMatches > 0: 
+            line = [pair[0], pair[1], str(threshold), str(ngrams), str(myMatch.numMatches)]
+            line = ",".join(line) + '\n'
+            f = open(logfile, 'a')
+            f.write(line)
+            f.close()
 
 if __name__ == '__main__':
     cli()
