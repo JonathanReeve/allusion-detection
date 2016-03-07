@@ -29,7 +29,8 @@ class Text:
         """ Tokenizes the text, breaking it up into words, removing punctuation. """
         tokenizer = nltk.RegexpTokenizer('[a-zA-Z]\w+\'?\w*') # A custom regex tokenizer. 
         self.spans = list(tokenizer.span_tokenize(self.text))
-        return tokenizer.tokenize(self.text)
+        tokens = tokenizer.tokenize(self.text)
+        return [ token.lower() for token in tokens ] # Make lowercase
     
     def ngrams(self, n): 
         """ Returns ngrams for the text."""
