@@ -3,6 +3,7 @@ import glob
 import os
 from termcolor import colored
 import click
+import sys
 
 blacklist = ['it of its']
 
@@ -24,9 +25,9 @@ def findKJVism(text, filename, context=20):
         out = filename + ": " + contextBefore + colored(matchText, 'red') + contextAfter
         out = cleanText(out) # sanitize output again
         counter += 1
-        print(out)
+        print(out, flush=True)
     if counter > 0: 
-        print(counter, 'total matches found in ' + filename)
+        print('%s total matches found in %s' % (counter, filename), flush=True)
     return counter
 
 
