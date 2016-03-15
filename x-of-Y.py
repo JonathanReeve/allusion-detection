@@ -82,10 +82,15 @@ def cli(filenames, logfile):
         text = open(filename).read()
         KJVisms = findKJVism(text, filename, show=True)
         regPossessives = findRegularPossessives(text, filename, show=True)
-        if KJVisms > 0: 
-            KJVPossessiveScore = KJVisms / regPossessives
+        if KJVisms == 0 and regPossessives == 0: 
+            KJVPossessiveScore = 0 # Nothing to compare. 
+        elif KJVisms == 0: 
+            KJVPossessiveScore = 0 # Don't try to divide zero. 
+        elif regPossessives == 0: 
+            KJVPossessiveScore = KJVisms
         else: 
-            KJVPossessiveScore = 0 # Don't try to divide by zero. 
+            KJVPossessiveScore = KJVisms / regPossessives
+
         print('KJV Possessive Score: %s' % KJVPossessiveScore)
         # Write to log
         line = [filename, str(KJVPossessiveScore)]  
