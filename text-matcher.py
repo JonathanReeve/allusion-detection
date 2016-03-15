@@ -25,12 +25,20 @@ class Text:
         return open(self.filename).read()
 
     @property
-    def tokens(self): 
+    def tokens(self, removeStopwords=True): 
         """ Tokenizes the text, breaking it up into words, removing punctuation. """
         tokenizer = nltk.RegexpTokenizer('[a-zA-Z]\w+\'?\w*') # A custom regex tokenizer. 
-        self.spans = list(tokenizer.span_tokenize(self.text))
+        spans = list(tokenizer.span_tokenize(self.text))
         tokens = tokenizer.tokenize(self.text)
-        return [ token.lower() for token in tokens ] # Make lowercase
+        tokens = [ token.lower() for token in tokens ] # make them lowercase
+        if not removeStopwords: 
+            self.spans = spans
+            return tokens
+        tokenSpans = list(zip(tokens, spans)) # zip it up
+        stopwords = nltk.corpus.stopwords.words('english') # get stopwords
+        tokenSpans = [ token for token in tokenSpans if token[0] not in stopwords ] # remove stopwords from zip
+        self.spans = [ x[1] for x in tokenSpans ] # unzip; get spans
+        return [ x[0] for x in tokenSpans ] # unzip; get tokens
     
     def ngrams(self, n): 
         """ Returns ngrams for the text."""
