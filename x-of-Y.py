@@ -27,6 +27,7 @@ def findKJVism(text, filename, context=20):
     matches = re.finditer(r'\w+\sof\s[A-Z][a-z]+', text)
     # TODO: do POS tagging and get nouns for the first word
     counter = 0
+    tokenizer = nltk.RegexpTokenizer('[a-zA-Z]\w+\'?\w*') # A custom regex tokenizer. 
     for match in matches: 
         contextBefore, matchText, contextAfter = getContext(match, text, context)
         if matchText in blacklist: # ignore blacklisted matches
@@ -36,12 +37,11 @@ def findKJVism(text, filename, context=20):
         # Do some POS tagging. 
         moreBefore, moreText, moreAfter = getContext(match, text, context+30) # Get more context for POS tagging. 
         line = moreBefore + moreText + moreAfter
-        tokens = nltk.word_tokenize(line)
+        tokens = tokenizer.tokenize(line)
         pos = nltk.pos_tag(tokens)
         posDict = dict(pos) # put it in a dictionary so we can look it up
 
-        matchTokens = nltk.word_tokenize(matchText)
-
+        matchTokens = tokenizer.tokenize(matchText)
         firstWordPOS = posDict[matchTokens[0]][0]
         if firstWordPOS is not 'N': 
             continue
