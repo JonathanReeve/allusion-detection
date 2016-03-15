@@ -4,6 +4,7 @@ import os
 from termcolor import colored
 import click
 import sys
+import nltk
 
 blacklist = []
 
@@ -12,16 +13,39 @@ def cleanText(text):
     text = re.sub('\s+', ' ', text) # collapse whitespace
     return text
 
+def getContext(match, text, context): 
+    """ 
+    Gets context for a match. Context of 20 will return 
+    20 characters before and 20 characters after a match.
+    """ 
+    matchText = cleanText(match.group(0)) # Some matches happen across newlines
+    contextBefore = text[match.span()[0] - context:match.span()[0]]
+    contextAfter = text[match.span()[1] : match.span()[1] + context ]  
+    return contextBefore, matchText, contextAfter
+
 def findKJVism(text, filename, context=20): 
     matches = re.finditer(r'\w+\sof\s[A-Z][a-z]+', text)
+    # TODO: do POS tagging and get nouns for the first word
     counter = 0
     for match in matches: 
-        matchText = cleanText(match.group(0))
+        contextBefore, matchText, contextAfter = getContext(match, text, context)
         if matchText in blacklist: # ignore blacklisted matches
             continue
         filename = os.path.basename(filename)
-        contextBefore = text[match.span()[0] - context:match.span()[0]]
-        contextAfter = text[match.span()[1] : match.span()[1] + context ]  
+
+        # Do some POS tagging. 
+        moreBefore, moreText, moreAfter = getContext(match, text, context+30) # Get more context for POS tagging. 
+        line = moreBefore + moreText + moreAfter
+        tokens = nltk.word_tokenize(line)
+        pos = nltk.pos_tag(tokens)
+        posDict = dict(pos) # put it in a dictionary so we can look it up
+
+        matchTokens = nltk.word_tokenize(matchText)
+
+        firstWordPOS = posDict[matchTokens[0]][0]
+        if firstWordPOS is not 'N': 
+            continue
+
         out = filename + ": " + contextBefore + colored(matchText, 'red') + contextAfter
         out = cleanText(out) # sanitize output again
         counter += 1
@@ -33,7 +57,7 @@ def findKJVism(text, filename, context=20):
 
 @click.command()
 @click.argument('filenames', nargs=-1)
-@click.option('-l', '--logfile', default='x-of-xs-log.txt', help='The name of the log file to write to.')
+@click.option('-l', '--logfile', default='x-of-Y-log.txt', help='The name of the log file to write to.')
 def cli(filenames, logfile):
     for filename in filenames: 
         text = open(filename).read()
@@ -48,3 +72,4 @@ def cli(filenames, logfile):
 
 if __name__ == '__main__':
     cli()
+
