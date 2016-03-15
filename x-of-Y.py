@@ -6,7 +6,6 @@ import click
 import sys
 import nltk
 
-blacklist = []
 
 def cleanText(text): 
     text = re.sub('\n', ' ', text) # replace newlines with spaces
@@ -23,15 +22,13 @@ def getContext(match, text, context):
     contextAfter = text[match.span()[1] : match.span()[1] + context ]  
     return contextBefore, matchText, contextAfter
 
-def findKJVism(text, filename, context=20): 
+def findKJVism(text, filename, context=20, show=False): 
     matches = re.finditer(r'\w+\sof\s[A-Z][a-z]+', text)
     # TODO: do POS tagging and get nouns for the first word
     counter = 0
     tokenizer = nltk.RegexpTokenizer('[a-zA-Z]\w+\'?\w*') # A custom regex tokenizer. 
     for match in matches: 
         contextBefore, matchText, contextAfter = getContext(match, text, context)
-        if matchText in blacklist: # ignore blacklisted matches
-            continue
         filename = os.path.basename(filename)
 
         # Do some POS tagging. 
@@ -46,14 +43,36 @@ def findKJVism(text, filename, context=20):
         if firstWordPOS is not 'N': 
             continue
 
-        out = filename + ": " + contextBefore + colored(matchText, 'red') + contextAfter
-        out = cleanText(out) # sanitize output again
-        counter += 1
-        print(out, flush=True)
+        if show: 
+            out = filename + ": " + contextBefore + colored(matchText, 'red') + contextAfter
+            out = cleanText(out) # sanitize output again
+            counter += 1
+            print(out, flush=True)
     if counter > 0: 
-        print('%s total matches found in %s' % (counter, filename), flush=True)
+        print('%s KJV-style possessives found in %s' % (counter, filename), flush=True)
     return counter
 
+def findRegularPossessives(text, filename, context=20, show=False): 
+    counter = 0
+    matches = re.finditer(r"\b[A-Z]\w+'s\s\w+", text)
+    tokenizer = nltk.RegexpTokenizer('[a-zA-Z]\w+\'?\w*') # A custom regex tokenizer. 
+    for match in matches: 
+        contextBefore, matchText, contextAfter = getContext(match, text, context)
+        matchTokens = tokenizer.tokenize(matchText)
+
+        # Ignore contractions. 
+        contractions = ["it's", "there's", "here's"]
+        if matchTokens[0].lower() in contractions: 
+            continue
+        
+        if show: 
+            out = filename + ": " + contextBefore + colored(matchText, 'red') + contextAfter
+            out = cleanText(out) # sanitize output again
+            counter += 1
+            print(out, flush=True)
+    if counter > 0: 
+        print('%s regular possessives found in %s' % (counter, filename), flush=True)
+    return counter
 
 @click.command()
 @click.argument('filenames', nargs=-1)
@@ -61,15 +80,19 @@ def findKJVism(text, filename, context=20):
 def cli(filenames, logfile):
     for filename in filenames: 
         text = open(filename).read()
-        count = findKJVism(text, filename)
+        KJVisms = findKJVism(text, filename, show=True)
+        regPossessives = findRegularPossessives(text, filename, show=True)
+        if KJVisms > 0: 
+            KJVPossessiveScore = KJVisms / regPossessives
+        else: 
+            KJVPossessiveScore = 0 # Don't try to divide by zero. 
+        print('KJV Possessive Score: %s' % KJVPossessiveScore)
         # Write to log
-        if count > 0: 
-            line = [filename, str(count)]  
-            line = ",".join(line) + '\n'
-            f = open(logfile, 'a')
-            f.write(line)
-            f.close()
+        line = [filename, str(KJVPossessiveScore)]  
+        line = ",".join(line) + '\n'
+        f = open(logfile, 'a')
+        f.write(line)
+        f.close()
 
 if __name__ == '__main__':
     cli()
-
