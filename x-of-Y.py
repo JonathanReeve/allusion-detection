@@ -23,7 +23,7 @@ def getContext(match, text, context):
     return contextBefore, matchText, contextAfter
 
 def findKJVism(text, filename, context=20, show=False): 
-    matches = re.finditer(r'\w+\sof\s[A-Z][a-z]+', text)
+    matches = re.finditer(r'\b\w+\sof\s[A-Z][a-z]+', text)
     # TODO: do POS tagging and get nouns for the first word
     counter = 0
     tokenizer = nltk.RegexpTokenizer('[a-zA-Z]\w+\'?\w*') # A custom regex tokenizer. 
