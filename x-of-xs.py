@@ -13,7 +13,7 @@ def cleanText(text):
     return text
 
 def findKJVism(text, filename, context=20): 
-    matches = re.finditer(r'(\b(.+?)\b\sof\s\2s)', text)
+    matches = re.finditer(r'(\b(.+?)\b\sof\s\2s\b)', text)
     counter = 0
     for match in matches: 
         matchText = cleanText(match.group(0))
