@@ -37,7 +37,6 @@ def findKJVism(text, filename, context=20):
 @click.option('-l', '--logfile', default='x-of-xs-log.txt', help='The name of the log file to write to.')
 def cli(filenames, logfile):
     for filename in filenames: 
-        print('opening %s' % filename )
         with codecs.open(filename, "r",encoding='utf-8', errors='ignore') as fdata:
             text = fdata.read().lower()
         count = findKJVism(text, filename)
