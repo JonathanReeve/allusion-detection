@@ -80,8 +80,8 @@ def findRegularPossessives(text, filename, context=20, show=False):
 @click.option('-l', '--logfile', default='x-of-Y-log.txt', help='The name of the log file to write to.')
 def cli(filenames, logfile):
     for filename in filenames: 
-        with codecs.open(filename, "r",encoding='utf-8', errors='ignore') as fdata:
-            text = fdata.read().lower()
+        f = open(filename, encoding='utf-8', errors='ignore') 
+        text = f.read()
         KJVisms = findKJVism(text, filename, show=True)
         regPossessives = findRegularPossessives(text, filename, show=True)
         if KJVisms == 0 and regPossessives == 0: 
