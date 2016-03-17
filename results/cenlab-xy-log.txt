@@ -1,0 +1,441 @@
+cenlab/texts/1771_Mackenzie_Henry_TheManofFeeling_Novel.txt,39
+cenlab/texts/1771_Smollett_Tobias_TheExpedictionofHenryClinker_Novel.txt,3.1879194630872485
+cenlab/texts/1778_Burney_Fanny_Evelina_Novel.txt,0.9565217391304348
+cenlab/texts/1782_Burney_Fanny_Cecilia_Novel.txt,2.1760299625468167
+cenlab/texts/1786_Beckford_William_Vathek_Novel.txt,127
+cenlab/texts/1788_Wollstonecraft_Mary_Mary_Novel.txt,0.46808510638297873
+cenlab/texts/1790_Radcliffe_Ann_ASicilianRomance_Novel.txt,5.0212765957446805
+cenlab/texts/1794_Godwin_William_CalebWilliams_Novel.txt,2.2966101694915255
+cenlab/texts/1794_Radcliffe_Ann_TheMysteriesofUdolpho_Novel.txt,1.28544061302682
+cenlab/texts/1794_Rowson_Susanna_CharlotteTemple_Novel.txt,1.4150943396226414
+cenlab/texts/1795_Lewis_Matthew_TheMonk_Novel.txt,0.554945054945055
+cenlab/texts/1796_Bonhote_Elizabeth_BungayCastle_Novel.txt,1.8255813953488371
+cenlab/texts/1796_Burney_Fanny_Camilla_Novel.txt,4.305439330543933
+cenlab/texts/1796_Hays_Mary_EmmaCourtney_Novel.txt,2.054054054054054
+cenlab/texts/1797_Foster_HannahWebster_TheCoquette_Novel.txt,0.6811594202898551
+cenlab/texts/1798_Brown_CharlesBrockden_Wieland_Novel.txt,1.6885245901639345
+cenlab/texts/1798_Wollstonecraft_Mary_Maria_Novel.txt,0.5849056603773585
+cenlab/texts/1799_Brown_CharlesBrockden_ArthurMervyn_Novel.txt,1.5664335664335665
+cenlab/texts/1800_Edgeworth_Maria_CastleRackrent_Novel.txt,0.7808219178082192
+cenlab/texts/1801_Edgeworth_Maria_Belinda_Novel.txt,0.4645550527903469
+cenlab/texts/1804_Opie_Amelia_AdelineMowbray_Novel.txt,0.6361111111111111
+cenlab/texts/1805_Lewis_Matthew_TheBravoofVenice_Novel.txt,0.7518796992481203
+cenlab/texts/1806_Edgeworth_Maria_Leonora_Novel.txt,0.8295454545454546
+cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,1.678082191780822
+cenlab/texts/1811_Austen_Jane_SenseandSensibility_Novel.txt,0.5978552278820375
+cenlab/texts/1813_Austen_Jane_PrideandPrejudice_Novel.txt,0.56797583081571
+cenlab/texts/1814_Austen_Jane_MansfieldPark_Novel.txt,0.49044585987261147
+cenlab/texts/1814_Scott_Walter_Waverley_Novel.txt,1.521103896103896
+cenlab/texts/1815_Peacock_ThomasLove_HeadlongHall_Novel.txt,5.9411764705882355
+cenlab/texts/1817_Scott_Walter_RobRoy_Novel.txt,1.087323943661972
+cenlab/texts/1818_Peacock_ThomasLove_NightmareAbbey_Novel.txt,1.8421052631578947
+cenlab/texts/1818_Shelley_Mary_Frankenstein_Novel.txt,8.941176470588236
+cenlab/texts/1819_Shelley_Mary_Mathilda_Novel.txt,5.857142857142857
+cenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt,2.7552870090634443
+cenlab/texts/1821_Galt_John_AnnalsoftheParish_Novel.txt,2.5194805194805197
+cenlab/texts/1821_Peacock_ThomasLove_MaidMarian_Novel.txt,3.090909090909091
+cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,1.4910714285714286
+cenlab/texts/1823_Cooper_JamesFenimore_ThePioneers_Novel.txt,3.03680981595092
+cenlab/texts/1826_Cooper_JameFenimore_TheLastoftheMohicans_Novel.txt,8.914893617021276
+cenlab/texts/1826_Disraeli_Benjamin_VivianGrey_Novel.txt,1.7407407407407407
+cenlab/texts/1836_Child_Lydia_Philothea_Novel.txt,4.387596899224806
+cenlab/texts/1837_Disraeli_Benjamin_Venetia_Novel.txt,2.5821917808219177
+cenlab/texts/1837_Trollope_FrancesMilton_TheVicarofWrexham_Novel.txt,1.1059190031152648
+cenlab/texts/1838_Martineau_Harriet_Deerbrook_Novel.txt,232
+cenlab/texts/1838_Poe_EdgarAllen_TheNarrativeofArthurGordonPym_Novel.txt,3.6792452830188678
+cenlab/texts/1843_Borrow_George_TheBibleinSpain_Novel.txt,1052
+cenlab/texts/1844_Yonge_Charlotte_Abbeychurch_Novel.txt,0.4013377926421405
+cenlab/texts/1847_Aguilar_Grace_HomeInfluence_Novel.txt,0.3089080459770115
+cenlab/texts/1847_Bronte_Charlotte_JaneEyre_Novel.txt,190
+cenlab/texts/1847_Bronte_Emily_WutheringHeights_Novel.txt,83
+cenlab/texts/1847_Thackeray_William_VanityFair_Novel.txt,0.5198237885462555
+cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,99
+cenlab/texts/1848_Gaskell_Elizabeth_MaryBarton_Novel.txt,0.26548672566371684
+cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,1.0396341463414633
+cenlab/texts/1850_Aguilar_Grace_ValeofCedars_Novel.txt,1.01875
+cenlab/texts/1850_Hawthorne_Nathaniel_TheScarletLetter_Novel.txt,0.8392857142857143
+cenlab/texts/1850_Yonge_Charlotte_Henrietta'sWish_Novel.txt,0.43776824034334766
+cenlab/texts/1851_Hawthorne_Nathaniel_TheHouseoftheSevenGables_Novel.txt,0.38636363636363635
+cenlab/texts/1851_Melville_Hermann_MobyDick_Novel.txt,0.6506469500924215
+cenlab/texts/1852_Collins_Wilkie_Basil_Novel.txt,0.6211180124223602
+cenlab/texts/1853_Craik_Dinah_Agatha'sHusband_Novel.txt,0.2997658079625293
+cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,1.2227848101265824
+cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,0.4956896551724138
+cenlab/texts/1853_Yonge_Charlotte_TheHeirofRedcliffe_Novel.txt,0.37532467532467534
+cenlab/texts/1854_Gaskell_Elizabeth_NorthandSouth_Novel.txt,0.28523489932885904
+cenlab/texts/1855_Trollope_FrancesMilton_TheWidowBarnaby_Novel.txt,1.3548387096774193
+cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,0.4567627494456763
+cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,1.0
+cenlab/texts/1859_Dickens_Charles_ATaleofTwoCities_Novel.txt,0.837037037037037
+cenlab/texts/1860_Collins_Wilkie_TheWomaninWhite_Novel.txt,0.5272511848341233
+cenlab/texts/1860_Eliot_George_TheMillontheFloss_Novel.txt,0.27497194163860833
+cenlab/texts/1861_Dickens_Charles_GreatExpectations_Novel.txt,0.3200836820083682
+cenlab/texts/1862_Braddon_Mary_LadyAudley'sSecret_Novel.txt,0.6883116883116883
+cenlab/texts/1862_Eliot_George_Romola_Novel.txt,562
+cenlab/texts/1864_Braddon_Mary_HenryDunbar_Novel.txt,0.7694369973190348
+cenlab/texts/1865_Carroll_Lewis_Alice'sAdventureinWonderland_Novel.txt,0.19047619047619047
+cenlab/texts/1869_Alcott_Louisa_LittleWomen_Novel.txt,0.15358931552587646
+cenlab/texts/1869_Blackmore_R.D._LornaDoone_Novel.txt,0.8955555555555555
+cenlab/texts/1869_Trollope_Anthony_PhineasFinn_Novel.txt,0.9135399673735726
+cenlab/texts/1871_Carroll_Lewis_ThroughtheLookingGlass.txt,0.12222222222222222
+cenlab/texts/1874_Hardy_Thomas_FarFromtheMaddingCrowd_Novel.txt,0.38461538461538464
+cenlab/texts/1876_Trollope_FrancesEleanor_ACharmingFellow_Novel.txt,0.38167053364269143
+cenlab/texts/1876_Twain_Mark_TheAdventuresofTomSawyer_Novel.txt,0.11498257839721254
+cenlab/texts/1877_Sewell_Anna_BlackBeauty_Novel.txt,0.18055555555555555
+cenlab/texts/1881 a fair barbarian.txt,0.5245901639344263
+cenlab/texts/1881_James_Henry_PortraitofaLady_Novel.txt,0.28869778869778867
+cenlab/texts/1881 milly and olly.txt,0.1702127659574468
+cenlab/texts/1881 treasure island.txt,0.3724137931034483
+cenlab/texts/1882 mr isaacs.txt,3.7
+cenlab/texts/1882_Stevenson_RobertLouis_TreasureIsland_Novel.txt,0.35294117647058826
+cenlab/texts/1882 the new arabian nights.txt,1.0852272727272727
+cenlab/texts/1883_Braddon_Mary_TheGoldenCalf_Novel.txt,0.44404973357015987
+cenlab/texts/1883 doctor claudius.txt,0.5269230769230769
+cenlab/texts/1884 a roman singer.txt,0.6910569105691057
+cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,0.5396145610278372
+cenlab/texts/1884 miss bretherton.txt,0.7676056338028169
+cenlab/texts/1884 philistia.txt,0.5070671378091873
+cenlab/texts/1884 the black arrow.txt,0.9583333333333334
+cenlab/texts/1884 the unclassed.txt,0.35170603674540685
+cenlab/texts/1884_Twain_Mark_TheAdventuresofHuckleberryFinn_Novel.txt,0.15418502202643172
+cenlab/texts/1885 a mummer's wife.txt,0.33816425120772947
+cenlab/texts/1885_Barr_Amelia_JanVeeder'sWife_Novel.txt,84
+cenlab/texts/1885 king solomon's mines.txt,0.4805194805194805
+cenlab/texts/1885 little lord fauntleroy.txt,0.5263157894736842
+cenlab/texts/1885 prince otto.txt,0.91
+cenlab/texts/1885 the children of the king.txt,0.4748201438848921
+cenlab/texts/1885 the shadow of a crime.txt,0.39679715302491103
+cenlab/texts/1885 zoroaster.txt,1.411764705882353
+cenlab/texts/1886 a tale of a lonely parish.txt,0.4738675958188153
+cenlab/texts/1886 demos.txt,0.3511111111111111
+cenlab/texts/1886 idle thoughts of an idle fellow.txt,0.7419354838709677
+cenlab/texts/1886 kidnapped.txt,1.5514705882352942
+cenlab/texts/1886 muslin.txt,0.5483870967741935
+cenlab/texts/1886_Stevenson_RobertLouis_JekyllandHyde_Novel.txt,2.0
+cenlab/texts/1886 the romance of two worlds.txt,1.3945945945945946
+cenlab/texts/1886 the strange case of dr jekyll and mr hyde.txt,2.088235294117647
+cenlab/texts/1886 vendetta.txt,1.3173076923076923
+cenlab/texts/1887 a mere accident.txt,1.4457831325301205
+cenlab/texts/1887_Bellamy_Edward_LookingBackward_Novel.txt,1.3888888888888888
+cenlab/texts/1887 marzio's crucifix.txt,0.4740740740740741
+cenlab/texts/1887 saracinesca.txt,0.7050561797752809
+cenlab/texts/1887 sara crowe.txt,0.16574585635359115
+cenlab/texts/1887 she.txt,1.5666666666666667
+cenlab/texts/1887 thelma.txt,0.5586854460093896
+cenlab/texts/1887 the merry men.txt,1.1578947368421053
+cenlab/texts/1887 thyrza.txt,0.36592592592592593
+cenlab/texts/1888 a life's morning.txt,0.5109034267912772
+cenlab/texts/1888 a study in scarlet.txt,1.0
+cenlab/texts/1888 confessions of a young man.txt,1.3267326732673268
+cenlab/texts/1888 mr meeson's will.txt,0.6826347305389222
+cenlab/texts/1888 robert elsmere.txt,0.6621499548328816
+cenlab/texts/1888 spring days.txt,0.43523316062176165
+cenlab/texts/1888_Trollope_FrancesEleanor_ThatUnfortunateMarriage_Novel.txt,0.3120728929384966
+cenlab/texts/1888_Ward_Mrs.Humphry_RobertElsmere_Novel.txt,0.7141255605381166
+cenlab/texts/1888 what dreams may come.txt,1.0925925925925926
+cenlab/texts/1889 ardath.txt,1.7139423076923077
+cenlab/texts/1889 cleopatra.txt,4.4
+cenlab/texts/1889_Doyle_ArthurConan_TheMysteryoftheCloomber_Novel.txt,1.9230769230769231
+cenlab/texts/1889 greifenstein.txt,0.46437994722955145
+cenlab/texts/1889 micah clarke.txt,1.369620253164557
+cenlab/texts/1889 mike fletcher.txt,0.5707547169811321
+cenlab/texts/1889 the master of ballantrae.txt,1.3233082706766917
+cenlab/texts/1889 the mystery of cloomber.txt,2.036363636363636
+cenlab/texts/1889 the nether world.txt,0.3261494252873563
+cenlab/texts/1889 three men in a boat.txt,0.5
+cenlab/texts/1890 beatrice.txt,0.6334841628959276
+cenlab/texts/1890_Broughton_Rhoda_Alas!_Novel.txt,0.3375
+cenlab/texts/1890_Chopin_Kate_AtFault_Novel.txt,84
+cenlab/texts/1890 the captain of the polestar.txt,1.4786324786324787
+cenlab/texts/1890 the emancipated.txt,0.702247191011236
+cenlab/texts/1890 the firm of girdlestone.txt,0.4410958904109589
+cenlab/texts/1890 the house of the wolf.txt,0.9902912621359223
+cenlab/texts/1890 the scapegoat.txt,0.8567567567567568
+cenlab/texts/1890_Wilde_Oscar_ThePictureofDorianGray_Novel.txt,1.2553191489361701
+cenlab/texts/1891_Doyle_ArthurConan_TheDoingsofRafflesHaw_Novel.txt,1.15625
+cenlab/texts/1891 eric brighteyes.txt,0.9942857142857143
+cenlab/texts/1891_Gissing_George_NewGrubStreet_Novel.txt,0.35
+cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,0.5300546448087432
+cenlab/texts/1891 new grub street.txt,0.3738140417457306
+cenlab/texts/1891 the diary of a pilgrimage.txt,2.0784313725490198
+cenlab/texts/1891 the great taboo.txt,1.4947916666666667
+cenlab/texts/1891 the white company.txt,4.333333333333333
+cenlab/texts/1891 the witch of prague.txt,0.363013698630137
+cenlab/texts/1891 what's bred in the bone.txt,0.4988610478359909
+cenlab/texts/1892 beyond the city.txt,0.5757575757575758
+cenlab/texts/1892 born in exile.txt,0.5892857142857143
+cenlab/texts/1892 denzil quarrier.txt,0.6175298804780877
+cenlab/texts/1892 don orsino.txt,0.44537815126050423
+cenlab/texts/1892 from one generation to another.txt,0.8297872340425532
+cenlab/texts/1892 nada the lily.txt,10.74
+cenlab/texts/1892 the adventures of sherlock holmes.txt,1.5747126436781609
+cenlab/texts/1892 the doing of raffles haw.txt,1.3235294117647058
+cenlab/texts/1892 the master of silence.txt,0.6744186046511628
+cenlab/texts/1892 the slave of the lamp.txt,0.563953488372093
+cenlab/texts/1893 a gentleman of france.txt,1.100371747211896
+cenlab/texts/1893 an island night's entertainment.txt,0.7439024390243902
+cenlab/texts/1893 from whose bourne.txt,1.3666666666666667
+cenlab/texts/1893_Gissing_George_TheOddWomen_Novel.txt,0.3323529411764706
+cenlab/texts/1893_Grand_Sarah_TheHeavenlyTwins_Novel.txt,0.3760330578512397
+cenlab/texts/1893_Harraden_Beatrice_ShipsThatPassintheNight_Novel.txt,0.35384615384615387
+cenlab/texts/1893 michael's crag.txt,0.2570093457943925
+cenlab/texts/1893 montezuma's daughter.txt,4.735042735042735
+cenlab/texts/1893 mrs falchion.txt,0.5343511450381679
+cenlab/texts/1893 novel notes.txt,0.4528301886792453
+cenlab/texts/1893 penelope's english experiences.txt,0.6936936936936937
+cenlab/texts/1893 polly oliver's problem.txt,0.25165562913907286
+cenlab/texts/1893 the memoirs of sherlock holmes.txt,0.9098360655737705
+cenlab/texts/1893 the odd woman.txt,0.3324396782841823
+cenlab/texts/1893 the refugees.txt,2.401639344262295
+cenlab/texts/1893 the trail of the sword.txt,0.8080808080808081
+cenlab/texts/1893 the trespasser.txt,0.3991769547325103
+cenlab/texts/1894 esther waters.txt,0.19553072625698323
+cenlab/texts/1894_Freeman_MaryWilkins_Pembroke_Novel.txt,0.11173184357541899
+cenlab/texts/1894_Hope_Anthony_ThePrisonerofZenda_Novel.txt,0.5475113122171946
+cenlab/texts/1894 in the midst of alarms.txt,0.35
+cenlab/texts/1894 in the year of jubilee.txt,0.4332552693208431
+cenlab/texts/1894_Kipling_Rudyard_TheJungleBook_Novel.txt,0.3388888888888889
+cenlab/texts/1894 marcella.txt,0.44057623049219685
+cenlab/texts/1894 round the red lamp.txt,0.6417910447761194
+cenlab/texts/1894 the face and the mask.txt,0.8682170542635659
+cenlab/texts/1894 the people of the mist.txt,0.9547738693467337
+cenlab/texts/1894 under the red robe.txt,0.3669724770642202
+cenlab/texts/1894 with edged tools.txt,0.5836177474402731
+cenlab/texts/1895_Crane_Stephen_TheRedBadgeofCourage_Novel.txt,0.041666666666666664
+cenlab/texts/1895 eve's ransom.txt,0.40853658536585363
+cenlab/texts/1895 from the memoirs of a minister of france.txt,0.5392156862745098
+cenlab/texts/1895 the british barbarians.txt,0.5742574257425742
+cenlab/texts/1895 the grey lady.txt,0.5348837209302325
+cenlab/texts/1895 the paying guest.txt,0.25471698113207547
+cenlab/texts/1895 the sowers.txt,0.885
+cenlab/texts/1895 the stark munro letters.txt,0.7521367521367521
+cenlab/texts/1895 the woman who did.txt,0.417910447761194
+cenlab/texts/1895 vain fortune.txt,0.4392523364485981
+cenlab/texts/1895_Wells_H.G._TheTimeMachine_Novel.txt,1.2222222222222223
+cenlab/texts/1895 when valmond came to pontiac.txt,0.9316770186335404
+cenlab/texts/1896 one day's courtship.txt,0.4264705882352941
+cenlab/texts/1896 revenge!.txt,0.6077348066298343
+cenlab/texts/1896 rodney stone.txt,0.6187290969899666
+cenlab/texts/1896 sir george tressady 1.txt,0.3649025069637883
+cenlab/texts/1896 sir george tressady 2.txt,0.3804034582132565
+cenlab/texts/1896 the pomp of the lavilettes.txt,0.5564516129032258
+cenlab/texts/1896 the seats of the mighty.txt,0.7561728395061729
+cenlab/texts/1896 the village watchtower.txt,0.27472527472527475
+cenlab/texts/1896 the wizard.txt,5.358974358974359
+cenlab/texts/1896 ziska.txt,1.55
+cenlab/texts/1897 an african millionaire.txt,0.6523605150214592
+cenlab/texts/1897 in kedar's tents.txt,1.0730337078651686
+cenlab/texts/1897 marm lisa.txt,0.5078125
+cenlab/texts/1897_Stoker_Bram_Dracula_Novel.txt,0.3597560975609756
+cenlab/texts/1897 the christian.txt,0.7019230769230769
+cenlab/texts/1897 the translation of a savage.txt,0.3915343915343915
+cenlab/texts/1897 the whirlpool.txt,0.3770764119601329
+cenlab/texts/1897 uncle burnac.txt,1.6049382716049383
+cenlab/texts/1898 black rock.txt,0.23048327137546468
+cenlab/texts/1898_Crockett_SR_TheRedAxe_Novel.txt,1.7272727272727273
+cenlab/texts/1898 doctor therne.txt,2.02
+cenlab/texts/1898 evelyn innes.txt,0.7251908396946565
+cenlab/texts/1898 helbeck of bannisdale 1.txt,0.36470588235294116
+cenlab/texts/1898 helbeck of bannisdale 2.txt,0.7416267942583732
+cenlab/texts/1898 penelope's experiences in scotland.txt,0.7649572649572649
+cenlab/texts/1898 swallow.txt,1.801418439716312
+cenlab/texts/1898 the battle of the strong.txt,1.091764705882353
+cenlab/texts/1898 the castle inn.txt,0.5178571428571429
+cenlab/texts/1898 the second thoughts of an idle fellow.txt,1.25
+cenlab/texts/1898 the town traveller.txt,0.36551724137931035
+cenlab/texts/1898 the valiant runaways.txt,0.9107142857142857
+cenlab/texts/1899 a woman intervenes.txt,0.7
+cenlab/texts/1899_Chopin_Kate_TheAwakening_Novel.txt,0.3581081081081081
+cenlab/texts/1899_Conrad_Joseph_HeartofDarkness_Novel.txt,0.3076923076923077
+cenlab/texts/1899 hilda wade.txt,0.3282208588957055
+cenlab/texts/1899 jennie baxter journalist.txt,1.819277108433735
+cenlab/texts/1899 the crown of life.txt,0.5818181818181818
+cenlab/texts/1899 the sky pilot.txt,0.2324561403508772
+cenlab/texts/1899 the story of the treasure seekers.txt,0.2617801047120419
+cenlab/texts/1899 the strong arm.txt,2.525
+cenlab/texts/1900 an unpardonable liar.txt,0.5714285714285714
+cenlab/texts/1900_Barr_Amelia_TheMaidofMaidenLane_Novel.txt,0.6716417910447762
+cenlab/texts/1900 black heart and white heart.txt,1.6470588235294117
+cenlab/texts/1900_Dreiser_Theodore_SisterCarrie_Novel.txt,0.3812154696132597
+cenlab/texts/1900 eben holden.txt,0.7692307692307693
+cenlab/texts/1900 eleanor.txt,0.5532786885245902
+cenlab/texts/1900_Kipling_Rudyard_Kim_Novel.txt,0.895910780669145
+cenlab/texts/1900 senator north.txt,0.6256410256410256
+cenlab/texts/1900 the doomswoman.txt,1.2173913043478262
+cenlab/texts/1900 the girl at the halfway house.txt,0.7
+cenlab/texts/1900 the isle of unrest.txt,1.941747572815534
+cenlab/texts/1900 the master christian.txt,1.3283302063789868
+cenlab/texts/1900 the touchstone.txt,0.31896551724137934
+cenlab/texts/1900 the wonderful wizard of oz.txt,0.7894736842105263
+cenlab/texts/1900 three men on the bummel.txt,0.9191919191919192
+cenlab/texts/1901 american fairy tales.txt,0.6136363636363636
+cenlab/texts/1901 by the ionian sea.txt,7.333333333333333
+cenlab/texts/1901 count hannibal.txt,0.5445859872611465
+cenlab/texts/1901 d'ri and i.txt,2.1944444444444446
+cenlab/texts/1901 emily fox-setton.txt,0.4017467248908297
+cenlab/texts/1901 lysbeth.txt,1.1925675675675675
+cenlab/texts/1901 marietta.txt,0.4212218649517685
+cenlab/texts/1901_Norris_Frank_TheOctopus_Novel.txt,0.4643423137876387
+cenlab/texts/1901 our friend the charlatan.txt,0.5512820512820513
+cenlab/texts/1901 penelope's irish experiences.txt,1.152542372881356
+cenlab/texts/1901 sister teresa.txt,0.44155844155844154
+cenlab/texts/1901 the man from glengarry.txt,0.2718253968253968
+cenlab/texts/1901 the right of way.txt,0.41299303944315546
+cenlab/texts/1901 the velvet glove.txt,1.8076923076923077
+cenlab/texts/1901 the wouldbegoods.txt,0.2231638418079096
+cenlab/texts/1902_Bellamy_Edward_Eleonora_Novel.txt,0.3733681462140992
+cenlab/texts/1902_Bennett_Arnold_GrandBabylonHotel_Novel.txt,1.1939393939393939
+cenlab/texts/1902 five children and it.txt,0.19753086419753085
+cenlab/texts/1902 glengarry schooldays.txt,0.1832797427652733
+cenlab/texts/1902 paul kelver.txt,0.43252595155709345
+cenlab/texts/1902 temporal power.txt,1.069879518072289
+cenlab/texts/1902 the diary of a goose girl.txt,0.7777777777777778
+cenlab/texts/1902 the mississippi bubble.txt,5.3
+cenlab/texts/1902 the splindid idle forties.txt,1.8206896551724139
+cenlab/texts/1902 the surprising adventures of the magical monarch of mo and his people.txt,1.1830985915492958
+cenlab/texts/1902 the valley of decision.txt,0.7060301507537688
+cenlab/texts/1902 the vultures.txt,0.9473684210526315
+cenlab/texts/1903 barlasch of the guard.txt,1.2826086956521738
+cenlab/texts/1903 darrel of the blessed isles.txt,0.9491525423728814
+cenlab/texts/1903_James_Henry_TheAmbassadors_Novel.txt,0.24581005586592178
+cenlab/texts/1903 lady rose's daughter.txt,0.4293286219081272
+cenlab/texts/1903_London_Jack_TheCalloftheWild_Novel.txt,0.4144144144144144
+cenlab/texts/1903_Norris_Frank_ThePit_Novel.txt,0.6855345911949685
+cenlab/texts/1903 pearl-maiden.txt,5.390804597701149
+cenlab/texts/1903 rebecca of sunnybrook farm.txt,0.3125
+cenlab/texts/1903 sanctuary.txt,0.2097902097902098
+cenlab/texts/1903 the enchanted island of yew.txt,4.435897435897436
+cenlab/texts/1903 the heart of rome.txt,0.35555555555555557
+cenlab/texts/1903 the log of a cowboy.txt,0.5863874345549738
+cenlab/texts/1903 the private papers of henry ryecroft.txt,3.05
+cenlab/texts/1904 a texas matchmaker.txt,1.1236559139784945
+cenlab/texts/1904 god's good man.txt,0.6034712950600801
+cenlab/texts/1904_Murfree_MaryNoailles_TheFrontiersman_Novel.txt,2.1739130434782608
+cenlab/texts/1904 stella fregelius.txt,1.0204081632653061
+cenlab/texts/1904 the brethren.txt,4.393103448275862
+cenlab/texts/1904 the last hope.txt,1.1050228310502284
+cenlab/texts/1904 the law of the land.txt,0.6649214659685864
+cenlab/texts/1904 the phoenix and the carpet.txt,0.3464052287581699
+cenlab/texts/1904 the prospector.txt,0.1722689075630252
+cenlab/texts/1904 tommy and co.txt,0.5063291139240507
+cenlab/texts/1904 vergilius.txt,22.4
+cenlab/texts/1905 ayesha.txt,2.3759398496240602
+cenlab/texts/1905 heart's desire.txt,0.4090150250417362
+cenlab/texts/1905_Orczy_Emma_TheScarletPimpernel_Novel.txt,0.5030864197530864
+cenlab/texts/1905 the house of mirth.txt,0.3541963015647226
+cenlab/texts/1905 the marriage of william ashe.txt,0.46417910447761196
+cenlab/texts/1905 the outlet.txt,0.8319327731092437
+cenlab/texts/1905_Wharton_Edith_TheHouseofMirth_Novel.txt,0.32608695652173914
+cenlab/texts/1905 will warburton.txt,0.44884488448844884
+cenlab/texts/1906 a rock in the baltic.txt,0.6086956521739131
+cenlab/texts/1906 aunt jane's nieces abroad.txt,0.7581699346405228
+cenlab/texts/1906 aunt jane's nieces.txt,0.24081632653061225
+cenlab/texts/1906 benita.txt,1.7534246575342465
+cenlab/texts/1906 fenwick's career.txt,0.4613466334164589
+cenlab/texts/1906_London_Jack_WhiteFang_Novel.txt,58
+cenlab/texts/1906 rezanov.txt,2.5697674418604652
+cenlab/texts/1906_Sinclair_Upton_TheJungle_Novel.txt,0.8659217877094972
+cenlab/texts/1906 sir nigel.txt,2.28125
+cenlab/texts/1906_Stein_Gertrude_ThreeLives_Novel.txt,0.1683673469387755
+cenlab/texts/1906 the dawn of a tomorrow.txt,0.09615384615384616
+cenlab/texts/1906 the doctor.txt,0.21928166351606806
+cenlab/texts/1906 the incomplete amorist.txt,0.3373134328358209
+cenlab/texts/1906 the railway children.txt,0.15210355987055016
+cenlab/texts/1906 the shuttle.txt,0.5364077669902912
+cenlab/texts/1906 the story of the amulet.txt,0.548936170212766
+cenlab/texts/1907 fair margeret.txt,2.14
+cenlab/texts/1907 madame de treymes.txt,0.36666666666666664
+cenlab/texts/1907 new chronicles of rebecca.txt,0.36054421768707484
+cenlab/texts/1907 ozma of oz.txt,1.625
+cenlab/texts/1907 reed anthony cowman.txt,4.282051282051282
+cenlab/texts/1907 the enchanted castle.txt,0.34983498349834985
+cenlab/texts/1907 the old peabody pew.txt,0.19642857142857142
+cenlab/texts/1907 the way of a man.txt,0.9230769230769231
+cenlab/texts/1907 the weavers.txt,0.6914191419141914
+cenlab/texts/1908 dorothy and the wizard in oz.txt,0.9587628865979382
+cenlab/texts/1908_Forster_E.M._ARoomWithaView_Novel.txt,0.7159763313609467
+cenlab/texts/1908 the ghost kings.txt,1.519736842105263
+cenlab/texts/1908 the testing of diana mallory.txt,0.44367176634214184
+cenlab/texts/1908 the yellow god.txt,1.1071428571428572
+cenlab/texts/1909 54-40 or fight!.txt,1.8066666666666666
+cenlab/texts/1909 homespun tales.txt,0.347682119205298
+cenlab/texts/1909 northern lights.txt,0.3211009174311927
+cenlab/texts/1909 the foreigner.txt,0.4157303370786517
+cenlab/texts/1909 the lady of blossholme.txt,0.8538961038961039
+cenlab/texts/1909 the secret garden.txt,0.09057971014492754
+cenlab/texts/1909 they and i.txt,0.4900662251655629
+cenlab/texts/1910_Forster_E.M._HowardsEnd_Novel.txt,0.4562334217506631
+cenlab/texts/1910 morning star.txt,3.6264367816091956
+cenlab/texts/1910 queen sheba's ring.txt,2.0402298850574714
+cenlab/texts/1910 the emerald city of oz.txt,1.2756410256410255
+cenlab/texts/1910 the purchase price.txt,1.263157894736842
+cenlab/texts/1910 the sword maker.txt,3.722972972972973
+cenlab/texts/1911 aunt jane's nieces and uncle john.txt,0.3712121212121212
+cenlab/texts/1911_Barrie_J.M._PeterPan_Novel.txt,0.22085889570552147
+cenlab/texts/1911 ethan frome.txt,0.18478260869565216
+cenlab/texts/1911 keeping up with lizzie.txt,0.5357142857142857
+cenlab/texts/1911 mother carey's chickens.txt,0.2928759894459103
+cenlab/texts/1911 the case of richard meynell.txt,0.5840336134453782
+cenlab/texts/1911 the life everlasting.txt,1.974025974025974
+cenlab/texts/1911 wells brothers.txt,0.32599118942731276
+cenlab/texts/1911_Wharton_Edith_EthanFrome_Novel.txt,0.16470588235294117
+cenlab/texts/1912 aunt jane's nieces on vacation.txt,0.42245989304812837
+cenlab/texts/1912_Cather_Willa_Alexander'sBridge_Novel.txt,0.2727272727272727
+cenlab/texts/1912 corporal cameron of the north west mounted police.txt,0.30033557046979864
+cenlab/texts/1912_Dreiser_Theodore_TheFinancier_Novel.txt,0.5641509433962264
+cenlab/texts/1912 sky island.txt,0.42346938775510207
+cenlab/texts/1912 the lost world.txt,1.2095238095238094
+cenlab/texts/1912 the reef.txt,0.28640776699029125
+cenlab/texts/1913_Lawrence_D.H._SonsandLovers_Novel.txt,0.281437125748503
+cenlab/texts/1913 roden's corner.txt,0.5352112676056338
+cenlab/texts/1913 the coryston family.txt,0.4359673024523161
+cenlab/texts/1913 the custom of the country.txt,0.27898966704936856
+cenlab/texts/1913 the judgment house.txt,0.351575456053068
+cenlab/texts/1913 the mating of lydia.txt,0.4528985507246377
+cenlab/texts/1913 the patrol of the sundance trail.txt,0.3239795918367347
+cenlab/texts/1913 the poison belt.txt,0.8409090909090909
+cenlab/texts/1913 the woman thou gavest me.txt,0.6128440366972477
+cenlab/texts/1913 t tembarom.txt,0.3333333333333333
+cenlab/texts/1914 a summer in a canyon.txt,0.4146341463414634
+cenlab/texts/1914 delia blanchflower.txt,0.4239350912778905
+cenlab/texts/1914 innocent.txt,0.4939271255060729
+cenlab/texts/1914 the lost prince.txt,0.4933920704845815
+cenlab/texts/1915 a great success.txt,0.3669064748201439
+cenlab/texts/1915_Ford_FordMadox_TheGoodSoldier_Novel.txt,0.6553398058252428
+cenlab/texts/1915 penelope's postscripts.txt,1.1290322580645162
+cenlab/texts/1915 the scarecrow of oz.txt,0.5694444444444444
+cenlab/texts/1916_Joyce_James_APortraitoftheArtistasaYoungMan_Novel.txt,0.7729468599033816
+cenlab/texts/1916 lady connie.txt,0.4426877470355731
+cenlab/texts/1916 mary louise.txt,0.4117647058823529
+cenlab/texts/1917_Cahan_Abraham_TheRiseofDavidLevinsky_Novel.txt,0.6375321336760925
+cenlab/texts/1917_Lewis_Sinclair_TheInnocents_Novel.txt,52
+cenlab/texts/1917 summer.txt,0.27906976744186046
+cenlab/texts/1917 the light in the clearing.txt,0.946524064171123
+cenlab/texts/1917 the major.txt,0.4344086021505376
+cenlab/texts/1917_Webb_Mary_GonetoEart_Novel.txt,0.21265822784810126
+cenlab/texts/1918_Lewis_Sinclai_TheJob_Nove.txt,127
+cenlab/texts/1918 the passing of the frontier.txt,4.483870967741935
+cenlab/texts/1918 the white morning.txt,2.2745098039215685
+cenlab/texts/1918 the world for sale.txt,0.6602409638554216
+cenlab/texts/1918 wild youth.txt,0.6056338028169014
+cenlab/texts/1919 all roads lead to calvary.txt,0.41368078175895767
+cenlab/texts/1919 the avalanche.txt,0.7872340425531915
+cenlab/texts/1920_DosPassos_John_ThreeSoldiers_Novel.txt,0.259656652360515
+cenlab/texts/1920_Fitzgerald_FScott_ThisSideofParadise_Novel.txt,0.42641509433962266
+cenlab/texts/1920 the age of innocence.txt,0.36254980079681276
+cenlab/texts/1920 the white people.txt,0.8095238095238095
+cenlab/texts/1920_Wharton_Edith_TheAgeofInnocence_Novel.txt,0.33548387096774196
+cenlab/texts/1921 no defence.txt,0.7097902097902098
+cenlab/texts/1921 the secret power.txt,0.5532994923857868
+cenlab/texts/1921 the sisters-in-law.txt,0.6056338028169014
+cenlab/texts/1921 to him that hath.txt,0.3263888888888889
+cenlab/texts/1922_Fitzgerald_FScott_TheBeautifulandtheDamned_Novel.txt,0.38902147971360385
+cenlab/texts/1922 in the days of poor richard.txt,1.5390625
+cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,0.632398753894081
+cenlab/texts/1922 sleeping fires.txt,0.8504672897196262
+cenlab/texts/1922 the covered wagon.txt,0.35693215339233036
+cenlab/texts/1922 the glimpses of the moon.txt,0.3459715639810427
+cenlab/texts/1925_Woolf_Virginia_Mrs.Dalloway_Novel.txt,0.6041666666666666
+cenlab/texts/1927_Woolf_Virginia_TotheLighthouse_Novel.txt,0.28703703703703703
+cenlab/texts/1928_Woolf_Virginia_Orlando_Novel.txt,0.9568345323741008
+cenlab/texts/1930_Mansfield_Katherine_TheAloe_Novel.txt,0.2077922077922078
