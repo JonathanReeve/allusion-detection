@@ -1,3 +1,4 @@
+filename,xy
 1771_Mackenzie_Henry_TheManofFeeling_Novel.txt,39
 1771_Smollett_Tobias_TheExpedictionofHenryClinker_Novel.txt,3.1879194630872485
 1778_Burney_Fanny_Evelina_Novel.txt,0.9565217391304348
