@@ -40,7 +40,10 @@ def findKJVism(text, filename, context=20, show=False):
         posDict = dict(pos) # put it in a dictionary so we can look it up
 
         matchTokens = tokenizer.tokenize(matchText)
-        firstWordPOS = posDict[matchTokens[0]][0]
+        try: 
+            firstWordPOS = posDict[matchTokens[0]][0]
+        except: 
+            firstWordPOS = "???" 
         if firstWordPOS is not 'N': 
             continue
 
