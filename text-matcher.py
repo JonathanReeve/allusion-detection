@@ -99,13 +99,13 @@ class Matcher:
         self.numMatches = numBlocks
         
         if numBlocks > 0: 
-            print('%s total matches found.' % numBlocks)
+            print('%s total matches found.' % numBlocks, flush=True)
 
         for num, match in enumerate(highMatchingBlocks): 
             out = self.getMatch(match, self.textA, self.textB, 3)
             print('\n')
-            print('match %s:' % (num+1))
-            print(out)
+            print('match %s:' % (num+1), flush=True)
+            print(out, flush=True)
 
 # myMatch = Matcher('texts/milton.txt', 'texts/kjv.txt', 2, 3)
 # myMatch.match()
