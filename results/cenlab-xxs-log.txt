@@ -1,128 +1,129 @@
-cenlab/texts/1796_Bonhote,Elizabeth_BungayCastle_Novel.txt,1
-cenlab/texts/1798_Brown,CharlesBrockden_Wieland_Novel.txt,1
-cenlab/texts/1801_Edgeworth,Maria_Belinda_Novel.txt,1
-cenlab/texts/1821_Galt,John_AnnalsoftheParish_Novel.txt,1
-cenlab/texts/1823_Cooper,JamesFenimore_ThePioneers_Novel.txt,1
-cenlab/texts/1836_Child,Lydia_Philothea_Novel.txt,1
-cenlab/texts/1837_Trollope,FrancesMilton_TheVicarofWrexham_Novel.txt,1
-cenlab/texts/1838_Martineau,Harriet_Deerbrook_Novel.txt,1
-cenlab/texts/1838_Poe,EdgarAllen_TheNarrativeofArthurGordonPym_Novel.txt,1
-cenlab/texts/1849_Kingsley,Charles_AltonLocke_Novel.txt,3
-cenlab/texts/1850_Aguilar,Grace_ValeofCedars_Novel.txt,1
-cenlab/texts/1851_Melville,Hermann_MobyDick_Novel.txt,2
-cenlab/texts/1853_Craik,Dinah_Agatha'sHusband_Novel.txt,2
-cenlab/texts/1853_Kingsley,Charles_Hypatia_Novel.txt,8
-cenlab/texts/1853_Stowe,HarrietBeecher_UncleTom'sCabin_Novel.txt,1
-cenlab/texts/1855_Trollope,FrancesMilton_TheWidowBarnaby_Novel.txt,1
-cenlab/texts/1856_Craik,Dinah_JohnHalifax_Novel.txt,2
-cenlab/texts/1857_Trollope,Anthony_BarchesterTowers_Novel.txt,1
-cenlab/texts/1859_Dickens,Charles_ATaleofTwoCities_Novel.txt,4
-cenlab/texts/1860_Collins,Wilkie_TheWomaninWhite_Novel.txt,2
-cenlab/texts/1869_Blackmore,R.D._LornaDoone_Novel.txt,3
-cenlab/texts/1869_Trollope,Anthony_PhineasFinn_Novel.txt,2
-cenlab/texts/1874_Hardy,Thomas_FarFromtheMaddingCrowd_Novel.txt,1
-cenlab/texts/1883_Braddon,Mary_TheGoldenCalf_Novel.txt,3
-cenlab/texts/1884_Lyall,Edna_WeTwo_Novel.txt,1
-cenlab/texts/1884 philistia.txt,5
-cenlab/texts/1885 a mummer's wife.txt,3
-cenlab/texts/1885 king solomon's mines.txt,1
-cenlab/texts/1885 zoroaster.txt,19
-cenlab/texts/1886 vendetta.txt,1
-cenlab/texts/1887 a mere accident.txt,1
-cenlab/texts/1887 saracinesca.txt,1
-cenlab/texts/1887 she.txt,3
-cenlab/texts/1887 the merry men.txt,1
-cenlab/texts/1888 confessions of a young man.txt,2
-cenlab/texts/1888 robert elsmere.txt,3
-cenlab/texts/1888_Ward,Mrs.Humphry_RobertElsmere_Novel.txt,3
-cenlab/texts/1889 ardath.txt,8
-cenlab/texts/1889 cleopatra.txt,4
-cenlab/texts/1889 greifenstein.txt,1
-cenlab/texts/1889 micah clarke.txt,1
-cenlab/texts/1889 the master of ballantrae.txt,1
-cenlab/texts/1889 the nether world.txt,2
-cenlab/texts/1890 the emancipated.txt,2
-cenlab/texts/1890 the scapegoat.txt,4
-cenlab/texts/1890_Wilde,Oscar_ThePictureofDorianGray_Novel.txt,1
-cenlab/texts/1891 eric brighteyes.txt,2
-cenlab/texts/1891_Hardy,Thomas_TessoftheD'Urbervilles_Novel.txt,1
-cenlab/texts/1891 the great taboo.txt,3
-cenlab/texts/1891 the white company.txt,1
-cenlab/texts/1891 the witch of prague.txt,3
-cenlab/texts/1891 what's bred in the bone.txt,2
-cenlab/texts/1892 beyond the city.txt,1
-cenlab/texts/1892 denzil quarrier.txt,1
-cenlab/texts/1892 nada the lily.txt,2
-cenlab/texts/1892 the adventures of sherlock holmes.txt,1
-cenlab/texts/1893_Grand,Sarah_TheHeavenlyTwins_Novel.txt,2
-cenlab/texts/1893 montezuma's daughter.txt,4
-cenlab/texts/1893 penelope's english experiences.txt,1
-cenlab/texts/1893 the refugees.txt,1
-cenlab/texts/1894 esther waters.txt,1
-cenlab/texts/1894 in the year of jubilee.txt,1
-cenlab/texts/1894 marcella.txt,1
-cenlab/texts/1894 the people of the mist.txt,1
-cenlab/texts/1894 under the red robe.txt,1
-cenlab/texts/1895 the stark munro letters.txt,1
-cenlab/texts/1895 the woman who did.txt,1
-cenlab/texts/1896 sir george tressady 2.txt,1
-cenlab/texts/1896 the seats of the mighty.txt,1
-cenlab/texts/1896 the wizard.txt,2
-cenlab/texts/1897 the christian.txt,5
-cenlab/texts/1897 the whirlpool.txt,1
-cenlab/texts/1898_Crockett,SR_TheRedAxe_Novel.txt,2
-cenlab/texts/1898 helbeck of bannisdale 1.txt,1
-cenlab/texts/1898 helbeck of bannisdale 2.txt,1
-cenlab/texts/1898 the battle of the strong.txt,3
-cenlab/texts/1899 the crown of life.txt,3
-cenlab/texts/1900_Dreiser,Theodore_SisterCarrie_Novel.txt,3
-cenlab/texts/1900 eleanor.txt,1
-cenlab/texts/1900 senator north.txt,1
-cenlab/texts/1900 the doomswoman.txt,3
-cenlab/texts/1900 the master christian.txt,1
-cenlab/texts/1901 penelope's irish experiences.txt,1
-cenlab/texts/1901 the right of way.txt,1
-cenlab/texts/1902 paul kelver.txt,1
-cenlab/texts/1902 temporal power.txt,3
-cenlab/texts/1902 the splindid idle forties.txt,1
-cenlab/texts/1902 the valley of decision.txt,1
-cenlab/texts/1903 darrel of the blessed isles.txt,1
-cenlab/texts/1903_James,Henry_TheAmbassadors_Novel.txt,1
-cenlab/texts/1903 lady rose's daughter.txt,3
-cenlab/texts/1903_Norris,Frank_ThePit_Novel.txt,1
-cenlab/texts/1903 pearl-maiden.txt,1
-cenlab/texts/1903 rebecca of sunnybrook farm.txt,2
-cenlab/texts/1903 the private papers of henry ryecroft.txt,4
-cenlab/texts/1904 god's good man.txt,3
-cenlab/texts/1904 the brethren.txt,4
-cenlab/texts/1905 ayesha.txt,1
-cenlab/texts/1905_Orczy,Emma_TheScarletPimpernel_Novel.txt,1
-cenlab/texts/1906 fenwick's career.txt,1
-cenlab/texts/1906_London,Jack_WhiteFang_Novel.txt,1
-cenlab/texts/1906_Sinclair,Upton_TheJungle_Novel.txt,1
-cenlab/texts/1906 the incomplete amorist.txt,1
-cenlab/texts/1907 fair margeret.txt,1
-cenlab/texts/1907 new chronicles of rebecca.txt,1
-cenlab/texts/1907 the weavers.txt,6
-cenlab/texts/1908_Forster,E.M._ARoomWithaView_Novel.txt,1
-cenlab/texts/1908 the testing of diana mallory.txt,1
-cenlab/texts/1909 homespun tales.txt,2
-cenlab/texts/1909 northern lights.txt,2
-cenlab/texts/1910 morning star.txt,4
-cenlab/texts/1910 queen sheba's ring.txt,2
-cenlab/texts/1910 the sword maker.txt,1
-cenlab/texts/1911_Barrie,J.M._PeterPan_Novel.txt,1
-cenlab/texts/1913_Lawrence,D.H._SonsandLovers_Novel.txt,2
-cenlab/texts/1913 the custom of the country.txt,1
-cenlab/texts/1913 the judgment house.txt,6
-cenlab/texts/1913 the poison belt.txt,1
-cenlab/texts/1913 the woman thou gavest me.txt,3
-cenlab/texts/1914 innocent.txt,1
-cenlab/texts/1915 a great success.txt,1
-cenlab/texts/1918_Lewis,Sinclai_TheJob_Nove.txt,1
-cenlab/texts/1918 the world for sale.txt,46
-cenlab/texts/1920_Fitzgerald,FScott_ThisSideofParadise_Novel.txt,1
-cenlab/texts/1921 no defence.txt,4
-cenlab/texts/1921 the secret power.txt,1
-cenlab/texts/1922_Joyce,James_Ulysses_Novel.txt,5
-cenlab/texts/1922 the head of the house of coombe.txt,1
+filename,xxs
+1796_Bonhote_Elizabeth_BungayCastle_Novel.txt,1
+1798_Brown_CharlesBrockden_Wieland_Novel.txt,1
+1801_Edgeworth_Maria_Belinda_Novel.txt,1
+1821_Galt_John_AnnalsoftheParish_Novel.txt,1
+1823_Cooper_JamesFenimore_ThePioneers_Novel.txt,1
+1836_Child_Lydia_Philothea_Novel.txt,1
+1837_Trollope_FrancesMilton_TheVicarofWrexham_Novel.txt,1
+1838_Martineau_Harriet_Deerbrook_Novel.txt,1
+1838_Poe_EdgarAllen_TheNarrativeofArthurGordonPym_Novel.txt,1
+1849_Kingsley_Charles_AltonLocke_Novel.txt,3
+1850_Aguilar_Grace_ValeofCedars_Novel.txt,1
+1851_Melville_Hermann_MobyDick_Novel.txt,2
+1853_Craik_Dinah_Agatha'sHusband_Novel.txt,2
+1853_Kingsley_Charles_Hypatia_Novel.txt,8
+1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,1
+1855_Trollope_FrancesMilton_TheWidowBarnaby_Novel.txt,1
+1856_Craik_Dinah_JohnHalifax_Novel.txt,2
+1857_Trollope_Anthony_BarchesterTowers_Novel.txt,1
+1859_Dickens_Charles_ATaleofTwoCities_Novel.txt,4
+1860_Collins_Wilkie_TheWomaninWhite_Novel.txt,2
+1869_Blackmore_R.D._LornaDoone_Novel.txt,3
+1869_Trollope_Anthony_PhineasFinn_Novel.txt,2
+1874_Hardy_Thomas_FarFromtheMaddingCrowd_Novel.txt,1
+1883_Braddon_Mary_TheGoldenCalf_Novel.txt,3
+1884_Lyall_Edna_WeTwo_Novel.txt,1
+1884 philistia.txt,5
+1885 a mummer's wife.txt,3
+1885 king solomon's mines.txt,1
+1885 zoroaster.txt,19
+1886 vendetta.txt,1
+1887 a mere accident.txt,1
+1887 saracinesca.txt,1
+1887 she.txt,3
+1887 the merry men.txt,1
+1888 confessions of a young man.txt,2
+1888 robert elsmere.txt,3
+1888_Ward_Mrs.Humphry_RobertElsmere_Novel.txt,3
+1889 ardath.txt,8
+1889 cleopatra.txt,4
+1889 greifenstein.txt,1
+1889 micah clarke.txt,1
+1889 the master of ballantrae.txt,1
+1889 the nether world.txt,2
+1890 the emancipated.txt,2
+1890 the scapegoat.txt,4
+1890_Wilde_Oscar_ThePictureofDorianGray_Novel.txt,1
+1891 eric brighteyes.txt,2
+1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,1
+1891 the great taboo.txt,3
+1891 the white company.txt,1
+1891 the witch of prague.txt,3
+1891 what's bred in the bone.txt,2
+1892 beyond the city.txt,1
+1892 denzil quarrier.txt,1
+1892 nada the lily.txt,2
+1892 the adventures of sherlock holmes.txt,1
+1893_Grand_Sarah_TheHeavenlyTwins_Novel.txt,2
+1893 montezuma's daughter.txt,4
+1893 penelope's english experiences.txt,1
+1893 the refugees.txt,1
+1894 esther waters.txt,1
+1894 in the year of jubilee.txt,1
+1894 marcella.txt,1
+1894 the people of the mist.txt,1
+1894 under the red robe.txt,1
+1895 the stark munro letters.txt,1
+1895 the woman who did.txt,1
+1896 sir george tressady 2.txt,1
+1896 the seats of the mighty.txt,1
+1896 the wizard.txt,2
+1897 the christian.txt,5
+1897 the whirlpool.txt,1
+1898_Crockett_SR_TheRedAxe_Novel.txt,2
+1898 helbeck of bannisdale 1.txt,1
+1898 helbeck of bannisdale 2.txt,1
+1898 the battle of the strong.txt,3
+1899 the crown of life.txt,3
+1900_Dreiser_Theodore_SisterCarrie_Novel.txt,3
+1900 eleanor.txt,1
+1900 senator north.txt,1
+1900 the doomswoman.txt,3
+1900 the master christian.txt,1
+1901 penelope's irish experiences.txt,1
+1901 the right of way.txt,1
+1902 paul kelver.txt,1
+1902 temporal power.txt,3
+1902 the splindid idle forties.txt,1
+1902 the valley of decision.txt,1
+1903 darrel of the blessed isles.txt,1
+1903_James_Henry_TheAmbassadors_Novel.txt,1
+1903 lady rose's daughter.txt,3
+1903_Norris_Frank_ThePit_Novel.txt,1
+1903 pearl-maiden.txt,1
+1903 rebecca of sunnybrook farm.txt,2
+1903 the private papers of henry ryecroft.txt,4
+1904 god's good man.txt,3
+1904 the brethren.txt,4
+1905 ayesha.txt,1
+1905_Orczy_Emma_TheScarletPimpernel_Novel.txt,1
+1906 fenwick's career.txt,1
+1906_London_Jack_WhiteFang_Novel.txt,1
+1906_Sinclair_Upton_TheJungle_Novel.txt,1
+1906 the incomplete amorist.txt,1
+1907 fair margeret.txt,1
+1907 new chronicles of rebecca.txt,1
+1907 the weavers.txt,6
+1908_Forster_E.M._ARoomWithaView_Novel.txt,1
+1908 the testing of diana mallory.txt,1
+1909 homespun tales.txt,2
+1909 northern lights.txt,2
+1910 morning star.txt,4
+1910 queen sheba's ring.txt,2
+1910 the sword maker.txt,1
+1911_Barrie_J.M._PeterPan_Novel.txt,1
+1913_Lawrence_D.H._SonsandLovers_Novel.txt,2
+1913 the custom of the country.txt,1
+1913 the judgment house.txt,6
+1913 the poison belt.txt,1
+1913 the woman thou gavest me.txt,3
+1914 innocent.txt,1
+1915 a great success.txt,1
+1918_Lewis_Sinclai_TheJob_Nove.txt,1
+1918 the world for sale.txt,46
+1920_Fitzgerald_FScott_ThisSideofParadise_Novel.txt,1
+1921 no defence.txt,4
+1921 the secret power.txt,1
+1922_Joyce_James_Ulysses_Novel.txt,5
+1922 the head of the house of coombe.txt,1
