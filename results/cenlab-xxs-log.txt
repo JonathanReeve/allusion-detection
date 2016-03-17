@@ -126,4 +126,3 @@ filename,xxs
 1921 no defence.txt,4
 1921 the secret power.txt,1
 1922_Joyce_James_Ulysses_Novel.txt,5
-1922 the head of the house of coombe.txt,1
