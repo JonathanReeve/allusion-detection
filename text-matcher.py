@@ -22,7 +22,8 @@ class Text:
     @property
     def text(self):
         """ Reads the file in memory. """
-        return open(self.filename).read()
+        f = open(self.filename, encoding='utf-8', errors='ignore')
+        return f.read() 
 
     @property
     def tokens(self, removeStopwords=True): 
