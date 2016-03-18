@@ -5,6 +5,7 @@ import nltk
 import re 
 import os
 import glob
+import csv
 import difflib 
 import logging
 import itertools
@@ -130,6 +131,23 @@ def getFiles(path):
     else: 
         raise click.ClickException("The path %s doesn't appear to be a file or directory" % path) 
 
+def checkLog(logfile, textpair): 
+    """ 
+    Checks the log file to make sure we haven't already done a particular analysis. 
+    Returns True if the pair is in the log already. 
+    """
+    pairs = []
+    logging.debug('Looking in the log for textpair:' % textpair)
+    if not os.path.isfile(logfile): 
+        logging.debug('No log file found.')
+        return False
+
+    with open(logfile, newline='') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            pairs.append([row[0], row[1]])
+    logging.debug('Pairs already in log: %s' % pairs)
+    return textpair in pairs
 
 @click.command()
 @click.argument('text1')
@@ -162,6 +180,12 @@ def cli(text1, text2, threshold, ngrams, logfile, verbose):
     for index, pair in enumerate(pairs): 
         logging.debug('Now comparing pair %s of %s.' % (index, numPairs))
         logging.debug('Comparing %s with %s.' % (pair[0], pair[1]))
+
+        # Make sure we haven't already done this pair. 
+        inLog = checkLog(logfile, [pair[0], pair[1]])
+        if inLog: 
+            logging.debug('This pair is already in the log. Skipping.')
+            continue
 
         # Do the matching. 
         myMatch = Matcher(pair[0], pair[1], threshold, ngrams)
