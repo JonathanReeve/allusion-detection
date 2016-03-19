@@ -108,14 +108,6 @@ class Matcher:
             print('match %s:' % (num+1), flush=True)
             print(out, flush=True)
 
-# myMatch = Matcher('texts/milton.txt', 'texts/kjv.txt', 2, 3)
-# myMatch.match()
-
-# myMatch = Matcher('texts/yeats.txt', 'texts/kjv.txt', 2, 4)
-# myMatch.match()
-
-#maxcafe2020
-
 def getFiles(path): 
     """ 
     Determines whether a path is a file or directory. 
