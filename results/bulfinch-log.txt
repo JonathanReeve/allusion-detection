@@ -1,0 +1,15 @@
+texts/bulfinch.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt,2,3,9
+texts/bulfinch.txt,cenlab/texts/1836_Child_Lydia_Philothea_Novel.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1844_Yonge_Charlotte_Abbeychurch_Novel.txt,2,3,2
+texts/bulfinch.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1884_Twain_Mark_TheAdventuresofHuckleberryFinn_Novel.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1894 esther waters.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1894_Hope_Anthony_ThePrisonerofZenda_Novel.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1897 the christian.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1901_Norris_Frank_TheOctopus_Novel.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1901 penelope's irish experiences.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1904 the brethren.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1906 sir nigel.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1911 mother carey's chickens.txt,2,3,1
+texts/bulfinch.txt,cenlab/texts/1915 penelope's postscripts.txt,2,3,1

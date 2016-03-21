@@ -1,0 +1,135 @@
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: Pan as the personification of Nature [31mUniversal Pan, Knit with the Graces[0m Hours in dance, Led
+[32mcenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt[0m: speaking theatrically, he continued [31muniversal Pan Knit with the Graces[0m Hours in dance— "Oh
+9 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: skill, and lands his arrow [31mwithin the inner ring of the target, but not exactly in the centre. "'You have not allowed for the wind[0m Hubert,' said Locksley
+[32mcenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt[0m: whistled through the air, and lighted [31mwithin the inner ring of the target, but not exactly in the centre. "You have not allowed for the wind[0m Hubert," said his antagonist
+
+
+match 2:
+[32mtexts/bulfinch.txt[0m: Hubert,' said Locksley [31mbetter shot.' "So saying, and without showing the least anxiety to pause upon[0m aim, Locksley stepped
+[32mcenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt[0m: antagonist, bending his bow [31mbetter shot." So saying, and without showing the least anxiety to pause upon[0m aim, Locksley stept
+
+
+match 3:
+[32mtexts/bulfinch.txt[0m: aim, Locksley stepped [31mappointed station, and shot his arrow as carelessly in appearance as if he had not even looked at the mark. He was speaking almost at the instant[0m shaft left the bow
+[32mcenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt[0m: aim, Locksley stept [31mappointed station, and shot his arrow as carelessly in appearance as if he had not even looked at the mark. He was speaking almost at the instant[0m shaft left the bowstring
+
+
+match 4:
+[32mtexts/bulfinch.txt[0m: left the bow-string [31myet it alighted in the target two inches nearer to the white spot which marked the centre than that of Hubert. "'By the light of Heaven!' said Prince John to Hubert, 'an thou suffer that runagate knave to overcome thee, thou art worthy of the gallows!' "Hubert had but one set speech for all occasions. 'An your highness were to hang me,' he said, 'a man can but do his best. Nevertheless, my grandsire drew a good bow--' "'The foul fiend on thy grandsire and all his generation!' interrupted John; 'shoot, knave, and shoot thy best, or it shall be worse for thee!' "Thus exhorted, Hubert resumed his place, and not neglecting the caution which he had received from his adversary, he made the necessary allowance for a very light[0m air of wind, which had just risen
+[32mcenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt[0m: shaft left the bowstring [31myet it alighted in the target two inches nearer to the white spot which marked the centre than that of Hubert. "By the light of heaven!" said Prince John to Hubert, "an thou suffer that runagate knave to overcome thee, thou art worthy of the gallows!" Hubert had but one set speech for all occasions. "An your highness were to hang me," he said, "a man can but do his best. Nevertheless, my grandsire drew a good bow—" "The foul fiend on thy grandsire and all his generation!" interrupted John, "shoot, knave, and shoot thy best, or it shall be the worse for thee!" Thus exhorted, Hubert resumed his place, and not neglecting the caution which he had received from his adversary, he made the necessary allowance for a very light[0m air of wind, which had just arisen
+
+
+match 5:
+[32mtexts/bulfinch.txt[0m: air of wind, which had just risen [31mshot so successfully that his arrow alighted in the very centre of the target. "'A Hubert! a Hubert!' shouted the populace, more interested in a known person than in a stranger. 'In the clout[0m clout!--a Hubert forever
+[32mcenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt[0m: air of wind, which had just arisen [31mshot so successfully that his arrow alighted in the very centre of the target. "A Hubert! a Hubert!" shouted the populace, more interested in a known person than in a stranger. "In the clout[0m clout!—a Hubert for ever
+
+
+match 6:
+[32mtexts/bulfinch.txt[0m: clout!--a Hubert forever [31mThou canst not mend that shot, Locksley,' said the Prince, with an insulting smile. "'I will notch his shaft for him, however,' replied Locksley. "And letting fly his arrow with a little more precaution than before, it lighted right upon that of his competitor, which it split to shivers. The people who stood around were so astonished at his wonderful dexterity, that they could not even give vent[0m surprise in their usual clamor
+[32mcenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt[0m: clout!—a Hubert for ever [31mThou canst not mend that shot, Locksley," said the Prince, with an insulting smile. "I will notch his shaft for him, however," replied Locksley. And letting fly his arrow with a little more precaution than before, it lighted right upon that of his competitor, which it split to shivers. The people who stood around were so astonished at his wonderful dexterity, that they could not even give vent[0m surprise in their usual clamour
+
+
+match 7:
+[32mtexts/bulfinch.txt[0m: surprise in their usual clamor [31mmust be the devil, and no man of flesh and blood,' whispered the yeomen to each other; 'such archery was never seen since a bow was first bent in Britain.' "'And now,' said Locksley, 'I will crave your Grace's permission to plant such a mark as is used in the North Country; and welcome every brave yeoman who shall try a shot at it to win a smile from the bonny lass[0m loves best.'" Locksley
+[32mcenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt[0m: surprise in their usual clamour [31mmust be the devil, and no man of flesh and blood," whispered the yeomen to each other; "such archery was never seen since a bow was first bent in Britain." "And now," said Locksley, "I will crave your Grace's permission to plant such a mark as is used in the North Country; and welcome every brave yeoman who shall try a shot at it to win a smile from the bonny lass[0m loves best." He then turned
+
+
+match 8:
+[32mtexts/bulfinch.txt[0m: feet and carries off the prize [31mEven Prince John, in admiration of Locksley's skill, lost for an instant his dislike to his person. 'These twenty nobles,' he said, 'which, with the bugle, thou hast fairly won, are thine own; we will make them fifty, if thou wilt take livery and service[0m us as a yeoman of our bodyguard
+[32mcenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt[0m: jubilee of acclamations followed [31meven Prince John, in admiration of Locksley's skill, lost for an instant his dislike to his person. "These twenty nobles," he said, "which, with the bugle, thou hast fairly won, are thine own; we will make them fifty, if thou wilt take livery and service[0m us as a yeoman of our body
+
+
+match 9:
+[32mtexts/bulfinch.txt[0m: us as a yeoman of our bodyguard [31mnear to our person. For never did so strong a hand bend a bow, or so true an eye[0m direct a shaft.'" [Footnote
+[32mcenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt[0m: yeoman of our body guard [31mnear to our person. For never did so strong a hand bend a bow, or so true an eye[0m direct a shaft." "Pardon
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: brood Of gamesome deities [31mPan himself, That simple shepherd's awe[0m inspiring god." All the theories
+[32mcenlab/texts/1836_Child_Lydia_Philothea_Novel.txt[0m: placed wooden images [31mPan, "the simple shepherd's awe[0m inspiring god." Here and there an aged
+2 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: skin, which was whiter than the snow [31mtwo red spots[0m upon her cheeks, which were redder
+[32mcenlab/texts/1844_Yonge_Charlotte_Abbeychurch_Novel.txt[0m: beckoning to her, 'I want you to account [31mtwo red spots[0m upon your cheeks. Do you think
+
+
+match 2:
+[32mtexts/bulfinch.txt[0m: outlaw in English legend [31mtime of Richard Coeur[0m de Lion ROCKINGHAM
+[32mcenlab/texts/1844_Yonge_Charlotte_Abbeychurch_Novel.txt[0m: thirty years old [31mtime of Richard Coeur[0m de-Lion.' 'Coeur
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: society of his most distinguished contemporaries [31mspent the last ten[0m years of his life, worn
+[32mcenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt[0m: smile. 'You do not know, perhaps [31mspent the last ten[0m years of my life among
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: ridden, and to mount and ride [31mwould do him more good than anything[0m else." Then said the king
+[32mcenlab/texts/1884_Twain_Mark_TheAdventuresofHuckleberryFinn_Novel.txt[0m: said if we was a mind to acknowledge [31mwould do him more good than most anything[0m else; so we said we would
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: said, "Alas, my beloved [31mshall never see[0m one another again!" Then he commended
+[32mcenlab/texts/1894 esther waters.txt[0m: fears. I'm sore afraid [31mshall never see[0m one another again--leastways
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: said, "Alas, my beloved [31mshall never see[0m one another again!" Then he commended
+[32mcenlab/texts/1894_Hope_Anthony_ThePrisonerofZenda_Novel.txt[0m: knight!" she said. "Perhaps [31mshall never see[0m one another again. Kiss
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: said, "Alas, my beloved [31mshall never see[0m one another again!" Then he commended
+[32mcenlab/texts/1897 the christian.txt[0m: girl is lost,' I thought [31mshall never see[0m one another again. This wicked
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: Juan": "The isles of Greece [31misles of Greece! Where burning Sappho[0m loved and sung, Where grew
+[32mcenlab/texts/1901_Norris_Frank_TheOctopus_Novel.txt[0m: tin bracelets, rendered [31mIsles of Greece, where burning Sappho[0m loved and sung." The Chinaman
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: Thus Moore uses [31mheart that has truly loved never forgets, But as truly loves on to the close; As the sunflower turns on her god when he sets The same look[0m turned when he rose." HERO
+[32mcenlab/texts/1901 penelope's irish experiences.txt[0m: XXXII. 'As the sunflower turns [31mheart that has truly loved never forgets, But as truly loves on to the close, As the sunflower turns on her god, when he sets, The same look[0m turned when he rose.' Thomas
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: candidate, accompanied by the words [31mname of God, of St. Michael[0m St. George, I make
+[32mcenlab/texts/1904 the brethren.txt[0m: crying with a loud voice [31mname of God, St. Michael[0m St. George, I knight
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: Mandricardo was surprised to see [31msword at his side, nor mace[0m saddle-bow. "And what weapon
+[32mcenlab/texts/1906 sir nigel.txt[0m: light armor and carried [31msword by his side and a mace[0m saddle-bow, for he was acting
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: looked at him with a pitying countenance [31mhardly knew whether[0m would rather conquer
+[32mcenlab/texts/1911 mother carey's chickens.txt[0m: feet. Tom Hamilton [31mhardly knew whether[0m would rather dance
+1 total matches found.
+
+
+match 1:
+[32mtexts/bulfinch.txt[0m: deserts and distant regions [31mlength it chanced that I came to the fairest valley in the world, wherein were trees all of equal growth; and a river ran through the valley, and a path was by the side of the river. And I followed the path until midday, and continued my journey along the remainder of the valley until the evening; and at the extremity[0m plain I came to a large
+[32mcenlab/texts/1915 penelope's postscripts.txt[0m: PENELOPE'S PRINTS OF WALES [31mlength it chanced that I came to the fairest Valley in the World, wherein were trees of equal growth; and a river ran through the Valley, and a path was by the side of the river. And I followed the path until midday, and I continued my journey along the remainder of the Valley until the evening: and at the extremity[0m plain I came to a lone
