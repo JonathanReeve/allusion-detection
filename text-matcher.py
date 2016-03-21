@@ -27,7 +27,7 @@ class Text:
         return f.read() 
 
     @property
-    def tokens(self, removeStopwords=False): 
+    def tokens(self, removeStopwords=True): 
         """ Tokenizes the text, breaking it up into words, removing punctuation. """
         tokenizer = nltk.RegexpTokenizer('[a-zA-Z]\w+\'?\w*') # A custom regex tokenizer. 
         spans = list(tokenizer.span_tokenize(self.text))
