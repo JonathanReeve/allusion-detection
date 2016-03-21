@@ -1,0 +1,659 @@
+texts/kjv/1Chron.txt,cenlab/texts/1893 mrs falchion.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1851_Melville_Hermann_MobyDick_Novel.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1885 king solomon's mines.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1889 the nether world.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,3
+texts/kjv/1Cor.txt,cenlab/texts/1892 don orsino.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1894 in the midst of alarms.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1894 the people of the mist.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1897 the christian.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1900 the master christian.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1901 lysbeth.txt,2,3,3
+texts/kjv/1Cor.txt,cenlab/texts/1901 the man from glengarry.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1901_Norris_Frank_TheOctopus_Novel.txt,2,3,2
+texts/kjv/1Cor.txt,cenlab/texts/1903 darrel of the blessed isles.txt,2,3,2
+texts/kjv/1Cor.txt,cenlab/texts/1904 god's good man.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1904 stella fregelius.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1907 the weavers.txt,2,3,2
+texts/kjv/1Cor.txt,cenlab/texts/1910 queen sheba's ring.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1910_Forster_E.M._HowardsEnd_Novel.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1911 the life everlasting.txt,2,3,1
+texts/kjv/1Cor.txt,cenlab/texts/1917 summer.txt,2,3,3
+texts/kjv/1Esdras.txt,cenlab/texts/1855_Trollope_FrancesMilton_TheWidowBarnaby_Novel.txt,2,3,1
+texts/kjv/1John.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/1John.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/1John.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/1John.txt,cenlab/texts/1900 eleanor.txt,2,3,1
+texts/kjv/1John.txt,cenlab/texts/1901 the right of way.txt,2,3,1
+texts/kjv/1John.txt,cenlab/texts/1902 glengarry schooldays.txt,2,3,1
+texts/kjv/1John.txt,cenlab/texts/1904 god's good man.txt,2,3,1
+texts/kjv/1John.txt,cenlab/texts/1908 the testing of diana mallory.txt,2,3,1
+texts/kjv/1John.txt,cenlab/texts/1909 homespun tales.txt,2,3,1
+texts/kjv/1Kings.txt,cenlab/texts/1843_Borrow_George_TheBibleinSpain_Novel.txt,2,3,1
+texts/kjv/1Kings.txt,cenlab/texts/1885 king solomon's mines.txt,2,3,1
+texts/kjv/1Kings.txt,cenlab/texts/1885_Barr_Amelia_JanVeeder'sWife_Novel.txt,2,3,1
+texts/kjv/1Kings.txt,cenlab/texts/1900 eleanor.txt,2,3,1
+texts/kjv/1Kings.txt,cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,2,3,1
+texts/kjv/1Peter.txt,cenlab/texts/1904 god's good man.txt,2,3,1
+texts/kjv/1Sam.txt,cenlab/texts/1814_Scott_Walter_Waverley_Novel.txt,2,3,1
+texts/kjv/1Sam.txt,cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,2,3,2
+texts/kjv/1Sam.txt,cenlab/texts/1847_Thackeray_William_VanityFair_Novel.txt,2,3,2
+texts/kjv/1Sam.txt,cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,2,3,2
+texts/kjv/1Sam.txt,cenlab/texts/1890 the scapegoat.txt,2,3,4
+texts/kjv/1Sam.txt,cenlab/texts/1895 the grey lady.txt,2,3,1
+texts/kjv/1Sam.txt,cenlab/texts/1899 the story of the treasure seekers.txt,2,3,1
+texts/kjv/1Sam.txt,cenlab/texts/1902_Bellamy_Edward_Eleonora_Novel.txt,2,3,1
+texts/kjv/1Tim.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/1Tim.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/1Tim.txt,cenlab/texts/1901 count hannibal.txt,2,3,1
+texts/kjv/2Chron.txt,cenlab/texts/1837_Trollope_FrancesMilton_TheVicarofWrexham_Novel.txt,2,3,1
+texts/kjv/2Chron.txt,cenlab/texts/1893_Grand_Sarah_TheHeavenlyTwins_Novel.txt,2,3,1
+texts/kjv/2Cor.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/2Cor.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/2Cor.txt,cenlab/texts/1911 the case of richard meynell.txt,2,3,1
+texts/kjv/2Cor.txt,cenlab/texts/1911 the life everlasting.txt,2,3,1
+texts/kjv/2Esdras.txt,cenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt,2,3,1
+texts/kjv/2Esdras.txt,cenlab/texts/1889 ardath.txt,2,3,4
+texts/kjv/2Esdras.txt,cenlab/texts/1892 from one generation to another.txt,2,3,1
+texts/kjv/2Esdras.txt,cenlab/texts/1893 montezuma's daughter.txt,2,3,1
+texts/kjv/2Esdras.txt,cenlab/texts/1895 the grey lady.txt,2,3,2
+texts/kjv/2Esdras.txt,cenlab/texts/1899 the story of the treasure seekers.txt,2,3,1
+texts/kjv/2Esdras.txt,cenlab/texts/1911 the life everlasting.txt,2,3,4
+texts/kjv/2John.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,1
+texts/kjv/2John.txt,cenlab/texts/1907 the old peabody pew.txt,2,3,1
+texts/kjv/2John.txt,cenlab/texts/1909 homespun tales.txt,2,3,1
+texts/kjv/2Kings.txt,cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,2,3,1
+texts/kjv/2Kings.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,1
+texts/kjv/2Kings.txt,cenlab/texts/1892 nada the lily.txt,2,3,1
+texts/kjv/2Mac.txt,cenlab/texts/1902 the splindid idle forties.txt,2,3,1
+texts/kjv/2Peter.txt,cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,2,3,1
+texts/kjv/2Peter.txt,cenlab/texts/1887_Bellamy_Edward_LookingBackward_Novel.txt,2,3,1
+texts/kjv/2Sam.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/2Sam.txt,cenlab/texts/1821_Galt_John_AnnalsoftheParish_Novel.txt,2,3,1
+texts/kjv/2Sam.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/2Sam.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/2Sam.txt,cenlab/texts/1893 montezuma's daughter.txt,2,3,1
+texts/kjv/2Sam.txt,cenlab/texts/1893 mrs falchion.txt,2,3,3
+texts/kjv/2Tim.txt,cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,2,3,1
+texts/kjv/2Tim.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,1
+texts/kjv/2Tim.txt,cenlab/texts/1895 the woman who did.txt,2,3,1
+texts/kjv/2Tim.txt,cenlab/texts/1896 the wizard.txt,2,3,1
+texts/kjv/2Tim.txt,cenlab/texts/1917 the major.txt,2,3,1
+texts/kjv/Acts.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/Acts.txt,cenlab/texts/1837_Trollope_FrancesMilton_TheVicarofWrexham_Novel.txt,2,3,1
+texts/kjv/Acts.txt,cenlab/texts/1843_Borrow_George_TheBibleinSpain_Novel.txt,2,3,1
+texts/kjv/Acts.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,2
+texts/kjv/Acts.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/Acts.txt,cenlab/texts/1886 the romance of two worlds.txt,2,3,1
+texts/kjv/Acts.txt,cenlab/texts/1895 the british barbarians.txt,2,3,1
+texts/kjv/Acts.txt,cenlab/texts/1901 the man from glengarry.txt,2,3,1
+texts/kjv/Acts.txt,cenlab/texts/1909 homespun tales.txt,2,3,1
+texts/kjv/Acts.txt,cenlab/texts/1913 the woman thou gavest me.txt,2,3,1
+texts/kjv/Amos.txt,cenlab/texts/1862_Eliot_George_Romola_Novel.txt,2,3,1
+texts/kjv/Amos.txt,cenlab/texts/1909 northern lights.txt,2,3,1
+texts/kjv/Azar.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Azar.txt,cenlab/texts/1889 the nether world.txt,2,3,3
+texts/kjv/Azar.txt,cenlab/texts/1891 eric brighteyes.txt,2,3,1
+texts/kjv/Azar.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/Col.txt,cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,2,3,1
+texts/kjv/Col.txt,cenlab/texts/1901 the man from glengarry.txt,2,3,1
+texts/kjv/Daniel.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/Daniel.txt,cenlab/texts/1869_Blackmore_R.D._LornaDoone_Novel.txt,2,3,1
+texts/kjv/Daniel.txt,cenlab/texts/1901 our friend the charlatan.txt,2,3,1
+texts/kjv/Daniel.txt,cenlab/texts/1913 the patrol of the sundance trail.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1771_Smollett_Tobias_TheExpedictionofHenryClinker_Novel.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1888 robert elsmere.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1888_Ward_Mrs.Humphry_RobertElsmere_Novel.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1890 the scapegoat.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1901 count hannibal.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1903 pearl-maiden.txt,2,3,2
+texts/kjv/Deut.txt,cenlab/texts/1904 god's good man.txt,2,3,1
+texts/kjv/Deut.txt,cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1818_Peacock_ThomasLove_NightmareAbbey_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,2,3,3
+texts/kjv/Eccl.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1853_Craik_Dinah_Agatha'sHusband_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,2
+texts/kjv/Eccl.txt,cenlab/texts/1874_Hardy_Thomas_FarFromtheMaddingCrowd_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1885 the shadow of a crime.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1887 thyrza.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1889 ardath.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1893 montezuma's daughter.txt,2,3,3
+texts/kjv/Eccl.txt,cenlab/texts/1893_Grand_Sarah_TheHeavenlyTwins_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1898_Crockett_SR_TheRedAxe_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1901 our friend the charlatan.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1904 god's good man.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1911 the life everlasting.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1917_Cahan_Abraham_TheRiseofDavidLevinsky_Novel.txt,2,3,1
+texts/kjv/Eccl.txt,cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,2,3,1
+texts/kjv/Eph.txt,cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,2,3,1
+texts/kjv/Eph.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,2
+texts/kjv/Eph.txt,cenlab/texts/1853_Yonge_Charlotte_TheHeirofRedcliffe_Novel.txt,2,3,1
+texts/kjv/Eph.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/Eph.txt,cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1771_Smollett_Tobias_TheExpedictionofHenryClinker_Novel.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1851_Melville_Hermann_MobyDick_Novel.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1859_Dickens_Charles_ATaleofTwoCities_Novel.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1885_Barr_Amelia_JanVeeder'sWife_Novel.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1896 the pomp of the lavilettes.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1901 emily fox-setton.txt,2,3,2
+texts/kjv/Exodus.txt,cenlab/texts/1904 god's good man.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1904 vergilius.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1913 the woman thou gavest me.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1913_Lawrence_D.H._SonsandLovers_Novel.txt,2,3,1
+texts/kjv/Exodus.txt,cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,2,3,1
+texts/kjv/Ezekiel.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/Ezekiel.txt,cenlab/texts/1817_Scott_Walter_RobRoy_Novel.txt,2,3,1
+texts/kjv/Ezekiel.txt,cenlab/texts/1893 mrs falchion.txt,2,3,1
+texts/kjv/Ezekiel.txt,cenlab/texts/1895 eve's ransom.txt,2,3,1
+texts/kjv/Ezekiel.txt,cenlab/texts/1904 god's good man.txt,2,3,1
+texts/kjv/Ezekiel.txt,cenlab/texts/1913 t tembarom.txt,2,3,1
+texts/kjv/Gal.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/Gal.txt,cenlab/texts/1897 the christian.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1844_Yonge_Charlotte_Abbeychurch_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1847_Aguilar_Grace_HomeInfluence_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1847_Thackeray_William_VanityFair_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1850_Aguilar_Grace_ValeofCedars_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1862_Eliot_George_Romola_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1876_Twain_Mark_TheAdventuresofTomSawyer_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1886 the romance of two worlds.txt,2,3,2
+texts/kjv/Genesis.txt,cenlab/texts/1886 vendetta.txt,2,3,3
+texts/kjv/Genesis.txt,cenlab/texts/1887 thelma.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1890_Broughton_Rhoda_Alas!_Novel.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1892 from one generation to another.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1895 the british barbarians.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1901 count hannibal.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1901 lysbeth.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1901 the right of way.txt,2,3,2
+texts/kjv/Genesis.txt,cenlab/texts/1902 temporal power.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1903 darrel of the blessed isles.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1904 god's good man.txt,2,3,2
+texts/kjv/Genesis.txt,cenlab/texts/1908 the ghost kings.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1909 homespun tales.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1909 the lady of blossholme.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1913 the woman thou gavest me.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1914 the lost prince.txt,2,3,1
+texts/kjv/Genesis.txt,cenlab/texts/1921 the secret power.txt,2,3,2
+texts/kjv/Habakkuk.txt,cenlab/texts/1823_Cooper_JamesFenimore_ThePioneers_Novel.txt,2,3,1
+texts/kjv/Habakkuk.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,2
+texts/kjv/Habakkuk.txt,cenlab/texts/1893 mrs falchion.txt,2,3,1
+texts/kjv/Habakkuk.txt,cenlab/texts/1907 the weavers.txt,2,3,1
+texts/kjv/Haggai.txt,cenlab/texts/1909 homespun tales.txt,2,3,1
+texts/kjv/Hebrews.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/Hebrews.txt,cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,2,3,2
+texts/kjv/Hebrews.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Hebrews.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Hebrews.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/Hebrews.txt,cenlab/texts/1900 eben holden.txt,2,3,1
+texts/kjv/Hebrews.txt,cenlab/texts/1903 rebecca of sunnybrook farm.txt,2,3,1
+texts/kjv/Hebrews.txt,cenlab/texts/1911 mother carey's chickens.txt,2,3,1
+texts/kjv/Hosea.txt,cenlab/texts/1874_Hardy_Thomas_FarFromtheMaddingCrowd_Novel.txt,2,3,1
+texts/kjv/Hosea.txt,cenlab/texts/1876_Trollope_FrancesEleanor_ACharmingFellow_Novel.txt,2,3,1
+texts/kjv/Hosea.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1821_Galt_John_AnnalsoftheParish_Novel.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,2,3,3
+texts/kjv/Isaiah.txt,cenlab/texts/1848_Gaskell_Elizabeth_MaryBarton_Novel.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1851_Melville_Hermann_MobyDick_Novel.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,3
+texts/kjv/Isaiah.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,2
+texts/kjv/Isaiah.txt,cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1885 king solomon's mines.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1885 the shadow of a crime.txt,2,3,3
+texts/kjv/Isaiah.txt,cenlab/texts/1892 don orsino.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1892 the slave of the lamp.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1893 montezuma's daughter.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1893 mrs falchion.txt,2,3,2
+texts/kjv/Isaiah.txt,cenlab/texts/1894 the people of the mist.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1895 when valmond came to pontiac.txt,2,3,3
+texts/kjv/Isaiah.txt,cenlab/texts/1897 the christian.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1898 the battle of the strong.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1901 lysbeth.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1902 paul kelver.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1903 darrel of the blessed isles.txt,2,3,2
+texts/kjv/Isaiah.txt,cenlab/texts/1904 vergilius.txt,2,3,3
+texts/kjv/Isaiah.txt,cenlab/texts/1906 the dawn of a tomorrow.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1907 the weavers.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1908 the yellow god.txt,2,3,2
+texts/kjv/Isaiah.txt,cenlab/texts/1909 northern lights.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1910 queen sheba's ring.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1911 mother carey's chickens.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1917 the major.txt,2,3,3
+texts/kjv/Isaiah.txt,cenlab/texts/1917_Cahan_Abraham_TheRiseofDavidLevinsky_Novel.txt,2,3,1
+texts/kjv/Isaiah.txt,cenlab/texts/1920 the white people.txt,2,3,1
+texts/kjv/James.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,2
+texts/kjv/James.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,3
+texts/kjv/James.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/James.txt,cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,2,3,1
+texts/kjv/James.txt,cenlab/texts/1890 the scapegoat.txt,2,3,1
+texts/kjv/James.txt,cenlab/texts/1898 penelope's experiences in scotland.txt,2,3,1
+texts/kjv/James.txt,cenlab/texts/1913 the woman thou gavest me.txt,2,3,1
+texts/kjv/Jeremiah.txt,cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,2,3,1
+texts/kjv/Jeremiah.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Jeremiah.txt,cenlab/texts/1853_Yonge_Charlotte_TheHeirofRedcliffe_Novel.txt,2,3,1
+texts/kjv/Jeremiah.txt,cenlab/texts/1889 ardath.txt,2,3,1
+texts/kjv/Jeremiah.txt,cenlab/texts/1889 micah clarke.txt,2,3,1
+texts/kjv/Jeremiah.txt,cenlab/texts/1893 the trespasser.txt,2,3,1
+texts/kjv/Jeremiah.txt,cenlab/texts/1895 the grey lady.txt,2,3,1
+texts/kjv/Jeremiah.txt,cenlab/texts/1899 the story of the treasure seekers.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1796_Hays_Mary_EmmaCourtney_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1797_Foster_HannahWebster_TheCoquette_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1817_Scott_Walter_RobRoy_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1818_Peacock_ThomasLove_NightmareAbbey_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1819_Shelley_Mary_Mathilda_Novel.txt,2,3,2
+texts/kjv/Job.txt,cenlab/texts/1820_Scott_Walter_Ivanhoe_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,2,3,2
+texts/kjv/Job.txt,cenlab/texts/1823_Cooper_JamesFenimore_ThePioneers_Novel.txt,2,3,2
+texts/kjv/Job.txt,cenlab/texts/1826_Cooper_JameFenimore_TheLastoftheMohicans_Novel.txt,2,3,2
+texts/kjv/Job.txt,cenlab/texts/1848_Gaskell_Elizabeth_MaryBarton_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1851_Melville_Hermann_MobyDick_Novel.txt,2,3,3
+texts/kjv/Job.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1854_Gaskell_Elizabeth_NorthandSouth_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,2,3,2
+texts/kjv/Job.txt,cenlab/texts/1860_Collins_Wilkie_TheWomaninWhite_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1862_Eliot_George_Romola_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1876_Trollope_FrancesEleanor_ACharmingFellow_Novel.txt,2,3,5
+texts/kjv/Job.txt,cenlab/texts/1876_Twain_Mark_TheAdventuresofTomSawyer_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1885_Barr_Amelia_JanVeeder'sWife_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1886 the romance of two worlds.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1889 ardath.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1889 micah clarke.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1889 the master of ballantrae.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1893 mrs falchion.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1896 the wizard.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1897 the christian.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1902 temporal power.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1903 darrel of the blessed isles.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1904 god's good man.txt,2,3,3
+texts/kjv/Job.txt,cenlab/texts/1904 stella fregelius.txt,2,3,3
+texts/kjv/Job.txt,cenlab/texts/1907 fair margeret.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1908 the ghost kings.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1917 summer.txt,2,3,1
+texts/kjv/Job.txt,cenlab/texts/1917 the light in the clearing.txt,2,3,1
+texts/kjv/Joel.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Joel.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1821_Galt_John_AnnalsoftheParish_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1859_Dickens_Charles_ATaleofTwoCities_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,2,3,2
+texts/kjv/John.txt,cenlab/texts/1885_Barr_Amelia_JanVeeder'sWife_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1886 the romance of two worlds.txt,2,3,2
+texts/kjv/John.txt,cenlab/texts/1889 ardath.txt,2,3,2
+texts/kjv/John.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1894 in the year of jubilee.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1894 the people of the mist.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1896 the wizard.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1897 the christian.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1898 helbeck of bannisdale 2.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1900 the master christian.txt,2,3,2
+texts/kjv/John.txt,cenlab/texts/1901 lysbeth.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1901 the man from glengarry.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1901 the right of way.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1904 god's good man.txt,2,3,2
+texts/kjv/John.txt,cenlab/texts/1913_Lawrence_D.H._SonsandLovers_Novel.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1917 summer.txt,2,3,1
+texts/kjv/John.txt,cenlab/texts/1919 all roads lead to calvary.txt,2,3,1
+texts/kjv/Jonah.txt,cenlab/texts/1851_Melville_Hermann_MobyDick_Novel.txt,2,3,3
+texts/kjv/Jonah.txt,cenlab/texts/1890 the scapegoat.txt,2,3,1
+texts/kjv/Joshua.txt,cenlab/texts/1889 micah clarke.txt,2,3,1
+texts/kjv/Judges.txt,cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,2,3,1
+texts/kjv/Judges.txt,cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,2,3,1
+texts/kjv/Judges.txt,cenlab/texts/1890 the scapegoat.txt,2,3,1
+texts/kjv/Judges.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/Judith.txt,cenlab/texts/1900_Kipling_Rudyard_Kim_Novel.txt,2,3,1
+texts/kjv/Lament.txt,cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,2,3,3
+texts/kjv/Lament.txt,cenlab/texts/1888 robert elsmere.txt,2,3,1
+texts/kjv/Lament.txt,cenlab/texts/1888_Ward_Mrs.Humphry_RobertElsmere_Novel.txt,2,3,1
+texts/kjv/Lament.txt,cenlab/texts/1900 eben holden.txt,2,3,1
+texts/kjv/Lev.txt,cenlab/texts/1890 the scapegoat.txt,2,3,4
+texts/kjv/Luke.txt,cenlab/texts/1821_Galt_John_AnnalsoftheParish_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1843_Borrow_George_TheBibleinSpain_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1847_Aguilar_Grace_HomeInfluence_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1847_Bronte_Charlotte_JaneEyre_Novel.txt,2,3,2
+texts/kjv/Luke.txt,cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,2,3,2
+texts/kjv/Luke.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,3
+texts/kjv/Luke.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1853_Yonge_Charlotte_TheHeirofRedcliffe_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1860_Collins_Wilkie_TheWomaninWhite_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1861_Dickens_Charles_GreatExpectations_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1874_Hardy_Thomas_FarFromtheMaddingCrowd_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1886 a tale of a lonely parish.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1886 the romance of two worlds.txt,2,3,5
+texts/kjv/Luke.txt,cenlab/texts/1889 ardath.txt,2,3,3
+texts/kjv/Luke.txt,cenlab/texts/1889 micah clarke.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1891 the witch of prague.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1892 denzil quarrier.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1894 esther waters.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1894 marcella.txt,2,3,2
+texts/kjv/Luke.txt,cenlab/texts/1894 the people of the mist.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1895 the grey lady.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1896 the seats of the mighty.txt,2,3,2
+texts/kjv/Luke.txt,cenlab/texts/1897 the christian.txt,2,3,3
+texts/kjv/Luke.txt,cenlab/texts/1897 the translation of a savage.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1898 black rock.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1898 evelyn innes.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1898 the second thoughts of an idle fellow.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1899 the sky pilot.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1899 the strong arm.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1900 the isle of unrest.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1900 the master christian.txt,2,3,4
+texts/kjv/Luke.txt,cenlab/texts/1900_Barr_Amelia_TheMaidofMaidenLane_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1901 d'ri and i.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1901 emily fox-setton.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1901 the right of way.txt,2,3,2
+texts/kjv/Luke.txt,cenlab/texts/1902 temporal power.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1903 lady rose's daughter.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1903 pearl-maiden.txt,2,3,6
+texts/kjv/Luke.txt,cenlab/texts/1903 rebecca of sunnybrook farm.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1904 the prospector.txt,2,3,2
+texts/kjv/Luke.txt,cenlab/texts/1904 vergilius.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1906 the shuttle.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1906_Sinclair_Upton_TheJungle_Novel.txt,2,3,2
+texts/kjv/Luke.txt,cenlab/texts/1907 the weavers.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1909 homespun tales.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1911 the life everlasting.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1912 corporal cameron of the north west mounted police.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1913 the woman thou gavest me.txt,2,3,2
+texts/kjv/Luke.txt,cenlab/texts/1915_Ford_FordMadox_TheGoodSoldier_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1916_Joyce_James_APortraitoftheArtistasaYoungMan_Novel.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1917 the light in the clearing.txt,2,3,1
+texts/kjv/Luke.txt,cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,2,3,1
+texts/kjv/Malachi.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,1
+texts/kjv/Malachi.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1847_Bronte_Charlotte_JaneEyre_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1850_Aguilar_Grace_ValeofCedars_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,2
+texts/kjv/Mark.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1884 philistia.txt,2,3,3
+texts/kjv/Mark.txt,cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1885_Barr_Amelia_JanVeeder'sWife_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1888_Trollope_FrancesEleanor_ThatUnfortunateMarriage_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1889 ardath.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1889 micah clarke.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1891 the diary of a pilgrimage.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1893 a gentleman of france.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1894 marcella.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1894 the people of the mist.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1897 the christian.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1898_Crockett_SR_TheRedAxe_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1899 the strong arm.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1900 the master christian.txt,2,3,8
+texts/kjv/Mark.txt,cenlab/texts/1900_Barr_Amelia_TheMaidofMaidenLane_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1901 the man from glengarry.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1901 the right of way.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1902 temporal power.txt,2,3,2
+texts/kjv/Mark.txt,cenlab/texts/1903 pearl-maiden.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1904 god's good man.txt,2,3,2
+texts/kjv/Mark.txt,cenlab/texts/1908 the testing of diana mallory.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1909 the lady of blossholme.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1912 corporal cameron of the north west mounted police.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1913 the coryston family.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1913 the woman thou gavest me.txt,2,3,2
+texts/kjv/Mark.txt,cenlab/texts/1916_Joyce_James_APortraitoftheArtistasaYoungMan_Novel.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1919 all roads lead to calvary.txt,2,3,1
+texts/kjv/Mark.txt,cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1771_Smollett_Tobias_TheExpedictionofHenryClinker_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1821_Galt_John_AnnalsoftheParish_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1823_Cooper_JamesFenimore_ThePioneers_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1836_Child_Lydia_Philothea_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1837_Trollope_FrancesMilton_TheVicarofWrexham_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1843_Borrow_George_TheBibleinSpain_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1847_Bronte_Charlotte_JaneEyre_Novel.txt,2,3,4
+texts/kjv/Matthew.txt,cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1848_Gaskell_Elizabeth_MaryBarton_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1850_Aguilar_Grace_ValeofCedars_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1851_Melville_Hermann_MobyDick_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,8
+texts/kjv/Matthew.txt,cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1874_Hardy_Thomas_FarFromtheMaddingCrowd_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1876_Twain_Mark_TheAdventuresofTomSawyer_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1884 philistia.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1885 prince otto.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1885_Barr_Amelia_JanVeeder'sWife_Novel.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1886 a tale of a lonely parish.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1886 the romance of two worlds.txt,2,3,4
+texts/kjv/Matthew.txt,cenlab/texts/1887 she.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1888 robert elsmere.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1888_Trollope_FrancesEleanor_ThatUnfortunateMarriage_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1888_Ward_Mrs.Humphry_RobertElsmere_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1889 ardath.txt,2,3,4
+texts/kjv/Matthew.txt,cenlab/texts/1889 micah clarke.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1889 the master of ballantrae.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1891 what's bred in the bone.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1893 a gentleman of france.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1894 marcella.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1894 the people of the mist.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1895 the grey lady.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1897 marm lisa.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1897 the christian.txt,2,3,6
+texts/kjv/Matthew.txt,cenlab/texts/1898 black rock.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1898_Crockett_SR_TheRedAxe_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1899 the sky pilot.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1899 the strong arm.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1900 the master christian.txt,2,3,7
+texts/kjv/Matthew.txt,cenlab/texts/1901 emily fox-setton.txt,2,3,4
+texts/kjv/Matthew.txt,cenlab/texts/1901 lysbeth.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1901 our friend the charlatan.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1901 the man from glengarry.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1901 the right of way.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1902 temporal power.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1903 pearl-maiden.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1903 rebecca of sunnybrook farm.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1903_Norris_Frank_ThePit_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1904 a texas matchmaker.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1904 god's good man.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1904 the last hope.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1904 the prospector.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1904 vergilius.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1905 the house of mirth.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1905 the marriage of william ashe.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1905_Wharton_Edith_TheHouseofMirth_Novel.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1906 the doctor.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1906 the shuttle.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1906_Sinclair_Upton_TheJungle_Novel.txt,2,3,3
+texts/kjv/Matthew.txt,cenlab/texts/1907 the weavers.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1908 the ghost kings.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1908 the testing of diana mallory.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1908 the yellow god.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1909 homespun tales.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1909 the foreigner.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1911 mother carey's chickens.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1911 the life everlasting.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1912 corporal cameron of the north west mounted police.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1913 the coryston family.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1913 the woman thou gavest me.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1914 innocent.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1916_Joyce_James_APortraitoftheArtistasaYoungMan_Novel.txt,2,3,2
+texts/kjv/Matthew.txt,cenlab/texts/1917 the major.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1918 wild youth.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1919 all roads lead to calvary.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1921 no defence.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1921 the secret power.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1921 to him that hath.txt,2,3,1
+texts/kjv/Matthew.txt,cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,2,3,2
+texts/kjv/Micah.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Micah.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/Micah.txt,cenlab/texts/1901 the man from glengarry.txt,2,3,1
+texts/kjv/Micah.txt,cenlab/texts/1904 vergilius.txt,2,3,1
+texts/kjv/Nahum.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,1
+texts/kjv/Nehemiah.txt,cenlab/texts/1891_Doyle_ArthurConan_TheDoingsofRafflesHaw_Novel.txt,2,3,1
+texts/kjv/Nehemiah.txt,cenlab/texts/1892 the doing of raffles haw.txt,2,3,1
+texts/kjv/Nehemiah.txt,cenlab/texts/1901 lysbeth.txt,2,3,1
+texts/kjv/Num.txt,cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,2,3,1
+texts/kjv/Num.txt,cenlab/texts/1896 the seats of the mighty.txt,2,3,1
+texts/kjv/Num.txt,cenlab/texts/1918 the world for sale.txt,2,3,1
+texts/kjv/Obadiah.txt,cenlab/texts/1898 penelope's experiences in scotland.txt,2,3,1
+texts/kjv/Philemon.txt,cenlab/texts/1857_Trollope_Anthony_BarchesterTowers_Novel.txt,2,3,1
+texts/kjv/Philip.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,2
+texts/kjv/Philip.txt,cenlab/texts/1848_Bronte_Ann_TheTenantofWildfellHall_Novel.txt,2,3,1
+texts/kjv/Philip.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Philip.txt,cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,2,3,1
+texts/kjv/Philip.txt,cenlab/texts/1895 the woman who did.txt,2,3,1
+texts/kjv/Philip.txt,cenlab/texts/1917 summer.txt,2,3,2
+texts/kjv/Proverbs.txt,cenlab/texts/1797_Foster_HannahWebster_TheCoquette_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1826_Disraeli_Benjamin_VivianGrey_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1837_Trollope_FrancesMilton_TheVicarofWrexham_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1847_Bronte_Charlotte_JaneEyre_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1851_Melville_Hermann_MobyDick_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1853_Yonge_Charlotte_TheHeirofRedcliffe_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1860_Collins_Wilkie_TheWomaninWhite_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1876_Trollope_FrancesEleanor_ACharmingFellow_Novel.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1884 philistia.txt,2,3,2
+texts/kjv/Proverbs.txt,cenlab/texts/1884_Lyall_Edna_WeTwo_Novel.txt,2,3,2
+texts/kjv/Proverbs.txt,cenlab/texts/1885 king solomon's mines.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1885 the shadow of a crime.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1887 saracinesca.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1889 micah clarke.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1890 the firm of girdlestone.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1891_Hardy_Thomas_TessoftheD'Urbervilles_Novel.txt,2,3,4
+texts/kjv/Proverbs.txt,cenlab/texts/1893_Grand_Sarah_TheHeavenlyTwins_Novel.txt,2,3,4
+texts/kjv/Proverbs.txt,cenlab/texts/1895 the grey lady.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1895 the woman who did.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1899 a woman intervenes.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1900 eben holden.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1901 our friend the charlatan.txt,2,3,2
+texts/kjv/Proverbs.txt,cenlab/texts/1902 paul kelver.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1903 pearl-maiden.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1907 reed anthony cowman.txt,2,3,1
+texts/kjv/Proverbs.txt,cenlab/texts/1922 in the days of poor richard.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,3
+texts/kjv/Psalms.txt,cenlab/texts/1826_Cooper_JameFenimore_TheLastoftheMohicans_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1837_Trollope_FrancesMilton_TheVicarofWrexham_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1843_Borrow_George_TheBibleinSpain_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1847_Bronte_Charlotte_JaneEyre_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1847_Bronte_Emily_WutheringHeights_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1848_Gaskell_Elizabeth_MaryBarton_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1849_Kingsley_Charles_AltonLocke_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1850_Aguilar_Grace_ValeofCedars_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1850_Yonge_Charlotte_Henrietta'sWish_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1851_Melville_Hermann_MobyDick_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,8
+texts/kjv/Psalms.txt,cenlab/texts/1853_Yonge_Charlotte_TheHeirofRedcliffe_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1854_Gaskell_Elizabeth_NorthandSouth_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1862_Braddon_Mary_LadyAudley'sSecret_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1862_Eliot_George_Romola_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1876_Trollope_FrancesEleanor_ACharmingFellow_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1884 a roman singer.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1888 robert elsmere.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1888_Ward_Mrs.Humphry_RobertElsmere_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1890 the scapegoat.txt,2,3,4
+texts/kjv/Psalms.txt,cenlab/texts/1893 the odd woman.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1893_Gissing_George_TheOddWomen_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1893_Grand_Sarah_TheHeavenlyTwins_Novel.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1894 the people of the mist.txt,2,3,2
+texts/kjv/Psalms.txt,cenlab/texts/1894 under the red robe.txt,2,3,2
+texts/kjv/Psalms.txt,cenlab/texts/1896 the seats of the mighty.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1897 the christian.txt,2,3,2
+texts/kjv/Psalms.txt,cenlab/texts/1898 black rock.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1900 eben holden.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1900 the master christian.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1901 by the ionian sea.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1904 god's good man.txt,2,3,2
+texts/kjv/Psalms.txt,cenlab/texts/1904 the prospector.txt,2,3,3
+texts/kjv/Psalms.txt,cenlab/texts/1905 the marriage of william ashe.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1907 the weavers.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1908 the testing of diana mallory.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1911 the case of richard meynell.txt,2,3,2
+texts/kjv/Psalms.txt,cenlab/texts/1913 the woman thou gavest me.txt,2,3,2
+texts/kjv/Psalms.txt,cenlab/texts/1914 delia blanchflower.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1917 summer.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1917_Cahan_Abraham_TheRiseofDavidLevinsky_Novel.txt,2,3,5
+texts/kjv/Psalms.txt,cenlab/texts/1918 the world for sale.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1919 all roads lead to calvary.txt,2,3,1
+texts/kjv/Psalms.txt,cenlab/texts/1921 the secret power.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1814_Scott_Walter_Waverley_Novel.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1818_Peacock_ThomasLove_NightmareAbbey_Novel.txt,2,3,2
+texts/kjv/Rev.txt,cenlab/texts/1847_Bronte_Charlotte_JaneEyre_Novel.txt,2,3,5
+texts/kjv/Rev.txt,cenlab/texts/1848_Gaskell_Elizabeth_MaryBarton_Novel.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,2
+texts/kjv/Rev.txt,cenlab/texts/1854_Gaskell_Elizabeth_NorthandSouth_Novel.txt,2,3,3
+texts/kjv/Rev.txt,cenlab/texts/1869_Blackmore_R.D._LornaDoone_Novel.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1893 michael's crag.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1897 the christian.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1900 the master christian.txt,2,3,8
+texts/kjv/Rev.txt,cenlab/texts/1900_Barr_Amelia_TheMaidofMaidenLane_Novel.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1901 the man from glengarry.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1913 the patrol of the sundance trail.txt,2,3,1
+texts/kjv/Rev.txt,cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1771_Smollett_Tobias_TheExpedictionofHenryClinker_Novel.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1809_More_Hannah_CoelebsinSearchofaWife_Novel.txt,2,3,2
+texts/kjv/Romans.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1853_Stowe_HarrietBeecher_UncleTom'sCabin_Novel.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1853_Yonge_Charlotte_TheHeirofRedcliffe_Novel.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1856_Craik_Dinah_JohnHalifax_Novel.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1885_Barr_Amelia_JanVeeder'sWife_Novel.txt,2,3,2
+texts/kjv/Romans.txt,cenlab/texts/1888 robert elsmere.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1888_Ward_Mrs.Humphry_RobertElsmere_Novel.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1893 the trail of the sword.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1897 the christian.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1901 emily fox-setton.txt,2,3,2
+texts/kjv/Romans.txt,cenlab/texts/1901 the man from glengarry.txt,2,3,3
+texts/kjv/Romans.txt,cenlab/texts/1902 temporal power.txt,2,3,1
+texts/kjv/Romans.txt,cenlab/texts/1904 god's good man.txt,2,3,2
+texts/kjv/Romans.txt,cenlab/texts/1909 the lady of blossholme.txt,2,3,1
+texts/kjv/Ruth.txt,cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,2,3,1
+texts/kjv/Ruth.txt,cenlab/texts/1893 mrs falchion.txt,2,3,1
+texts/kjv/Ruth.txt,cenlab/texts/1901 sister teresa.txt,2,3,1
+texts/kjv/Sirach.txt,cenlab/texts/1850_Yonge_Charlotte_Henrietta'sWish_Novel.txt,2,3,1
+texts/kjv/Sirach.txt,cenlab/texts/1892 from one generation to another.txt,2,3,2
+texts/kjv/Sirach.txt,cenlab/texts/1897 in kedar's tents.txt,2,3,1
+texts/kjv/Sirach.txt,cenlab/texts/1913 roden's corner.txt,2,3,1
+texts/kjv/Song.txt,cenlab/texts/1822_Hogg_James_ThreePerilsofMan_Novel.txt,2,3,1
+texts/kjv/Song.txt,cenlab/texts/1853_Kingsley_Charles_Hypatia_Novel.txt,2,3,2
+texts/kjv/Song.txt,cenlab/texts/1885 the shadow of a crime.txt,2,3,1
+texts/kjv/Song.txt,cenlab/texts/1887 a mere accident.txt,2,3,1
+texts/kjv/Song.txt,cenlab/texts/1887 thelma.txt,2,3,1
+texts/kjv/Song.txt,cenlab/texts/1893_Grand_Sarah_TheHeavenlyTwins_Novel.txt,2,3,1
+texts/kjv/Song.txt,cenlab/texts/1904 god's good man.txt,2,3,1
+texts/kjv/Song.txt,cenlab/texts/1911 the life everlasting.txt,2,3,1
+texts/kjv/Song.txt,cenlab/texts/1918 the world for sale.txt,2,3,1
+texts/kjv/Song.txt,cenlab/texts/1922 in the days of poor richard.txt,2,3,1
+texts/kjv/Susanna.txt,cenlab/texts/1796_Burney_Fanny_Camilla_Novel.txt,2,3,1
+texts/kjv/Susanna.txt,cenlab/texts/1900_Barr_Amelia_TheMaidofMaidenLane_Novel.txt,2,3,1
+texts/kjv/Tobit.txt,cenlab/texts/1901 sister teresa.txt,2,3,1
+texts/kjv/Tobit.txt,cenlab/texts/1922_Joyce_James_Ulysses_Novel.txt,2,3,1
+texts/kjv/Wisdom.txt,cenlab/texts/1837_Trollope_FrancesMilton_TheVicarofWrexham_Novel.txt,2,3,1
+texts/kjv/Wisdom.txt,cenlab/texts/1892 from one generation to another.txt,2,3,1
+texts/kjv/Zech.txt,cenlab/texts/1907 the weavers.txt,2,3,1
