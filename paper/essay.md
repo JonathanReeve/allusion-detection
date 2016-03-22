@@ -103,6 +103,21 @@ Overall, the highest numbers of KJV text matches are concentrated in the mid-19t
 
 ![KJV Text Matches by Decade](../results/charts/matches-df-10.png){#fig:matches-decade}
 
+The following table shows the 10 books of the KJV that are quoted from the most, with the total number of matches found in each. 
+
+Book             Matches
+-------          ------- 
+Matthew          129
+Luke             83
+Psalms           70
+Job              50
+Isaiah           48
+Mark             46
+Proverbs         39
+Genesis          34
+1 Corinthians    33
+John             30
+
 ##Composite Biblical Allusion Scoring
 
 Biblical allusions of all types are concentrated in the mid-19th century, centered around 1840. [@fig:biblical-3] shows all three biblical allusion measures: text reuse, xxs-ratios, and xy-ratios, averaged by decade. Apart from high xxs-ratios around 1918, most of the peaks occur in the mid-19th century. As with the text matches described above, this remains true even when outliers are removed. All three of these scores are added together to produce a composite biblical allusion score, the trends of which will be discussed in the “results” section below. 
