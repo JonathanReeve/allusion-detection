@@ -1,10 +1,11 @@
 essay.pdf : essay.md
-	pandoc -o essay.pdf essay.md \
+	pandoc -o $@ $< \
 		--smart \
 		--latex-engine=xelatex \
+		-V links-as-notes \
 		--filter pandoc-crossref \
 		--filter pandoc-citeproc
-	gvfs-open essay.pdf &
+	evince '$@' &
 
 mla: 
 	pandoc -o essay.pdf essay.md \
