@@ -1,0 +1,292 @@
+1881 a fair barbarian.txt
+1881 milly and olly.txt
+1881 treasure island.txt
+1882 mr isaacs.txt
+1882 the new arabian nights.txt
+1883 doctor claudius.txt
+1884 a roman singer.txt
+1884 miss bretherton.txt
+1884 philistia.txt
+1884 the black arrow.txt
+1884 the unclassed.txt
+1885 a mummer's wife.txt
+1885 king solomon's mines.txt
+1885 little lord fauntleroy.txt
+1885 prince otto.txt
+1885 the children of the king.txt
+1885 the shadow of a crime.txt
+1885 zoroaster.txt
+1886 a tale of a lonely parish.txt
+1886 demos.txt
+1886 idle thoughts of an idle fellow.txt
+1886 kidnapped.txt
+1886 muslin.txt
+1886 the romance of two worlds.txt
+1886 the strange case of dr jekyll and mr hyde.txt
+1886 vendetta.txt
+1887 a mere accident.txt
+1887 marzio's crucifix.txt
+1887 saracinesca.txt
+1887 sara crowe.txt
+1887 she.txt
+1887 thelma.txt
+1887 the merry men.txt
+1887 thyrza.txt
+1888 a life's morning.txt
+1888 a study in scarlet.txt
+1888 confessions of a young man.txt
+1888 mr meeson's will.txt
+1888 robert elsmere.txt
+1888 spring days.txt
+1888 what dreams may come.txt
+1889 ardath.txt
+1889 cleopatra.txt
+1889 greifenstein.txt
+1889 micah clarke.txt
+1889 mike fletcher.txt
+1889 the master of ballantrae.txt
+1889 the mystery of cloomber.txt
+1889 the nether world.txt
+1889 three men in a boat.txt
+1890 beatrice.txt
+1890 the captain of the polestar.txt
+1890 the emancipated.txt
+1890 the firm of girdlestone.txt
+1890 the house of the wolf.txt
+1890 the scapegoat.txt
+1891 eric brighteyes.txt
+1891 new grub street.txt
+1891 the diary of a pilgrimage.txt
+1891 the great taboo.txt
+1891 the white company.txt
+1891 the witch of prague.txt
+1891 what's bred in the bone.txt
+1892 beyond the city.txt
+1892 born in exile.txt
+1892 denzil quarrier.txt
+1892 don orsino.txt
+1892 from one generation to another.txt
+1892 nada the lily.txt
+1892 the adventures of sherlock holmes.txt
+1892 the doing of raffles haw.txt
+1892 the master of silence.txt
+1892 the slave of the lamp.txt
+1893 a gentleman of france.txt
+1893 an island night's entertainment.txt
+1893 from whose bourne.txt
+1893 michael's crag.txt
+1893 montezuma's daughter.txt
+1893 mrs falchion.txt
+1893 novel notes.txt
+1893 penelope's english experiences.txt
+1893 polly oliver's problem.txt
+1893 the memoirs of sherlock holmes.txt
+1893 the odd woman.txt
+1893 the refugees.txt
+1893 the trail of the sword.txt
+1893 the trespasser.txt
+1894 esther waters.txt
+1894 in the midst of alarms.txt
+1894 in the year of jubilee.txt
+1894 marcella.txt
+1894 round the red lamp.txt
+1894 the face and the mask.txt
+1894 the people of the mist.txt
+1894 under the red robe.txt
+1894 with edged tools.txt
+1895 eve's ransom.txt
+1895 from the memoirs of a minister of france.txt
+1895 the british barbarians.txt
+1895 the grey lady.txt
+1895 the paying guest.txt
+1895 the sowers.txt
+1895 the stark munro letters.txt
+1895 the woman who did.txt
+1895 vain fortune.txt
+1895 when valmond came to pontiac.txt
+1896 one day's courtship.txt
+1896 revenge!.txt
+1896 rodney stone.txt
+1896 sir george tressady 1.txt
+1896 sir george tressady 2.txt
+1896 the pomp of the lavilettes.txt
+1896 the seats of the mighty.txt
+1896 the village watchtower.txt
+1896 the wizard.txt
+1896 ziska.txt
+1897 an african millionaire.txt
+1897 in kedar's tents.txt
+1897 marm lisa.txt
+1897 the christian.txt
+1897 the translation of a savage.txt
+1897 the whirlpool.txt
+1897 uncle burnac.txt
+1898 black rock.txt
+1898 doctor therne.txt
+1898 evelyn innes.txt
+1898 helbeck of bannisdale 1.txt
+1898 helbeck of bannisdale 2.txt
+1898 penelope's experiences in scotland.txt
+1898 swallow.txt
+1898 the battle of the strong.txt
+1898 the castle inn.txt
+1898 the second thoughts of an idle fellow.txt
+1898 the town traveller.txt
+1898 the valiant runaways.txt
+1899 a woman intervenes.txt
+1899 hilda wade.txt
+1899 jennie baxter journalist.txt
+1899 the crown of life.txt
+1899 the sky pilot.txt
+1899 the story of the treasure seekers.txt
+1899 the strong arm.txt
+1900 an unpardonable liar.txt
+1900 black heart and white heart.txt
+1900 eben holden.txt
+1900 eleanor.txt
+1900 senator north.txt
+1900 the doomswoman.txt
+1900 the girl at the halfway house.txt
+1900 the isle of unrest.txt
+1900 the master christian.txt
+1900 the touchstone.txt
+1900 the wonderful wizard of oz.txt
+1900 three men on the bummel.txt
+1901 american fairy tales.txt
+1901 by the ionian sea.txt
+1901 count hannibal.txt
+1901 d'ri and i.txt
+1901 emily fox-setton.txt
+1901 lysbeth.txt
+1901 marietta.txt
+1901 our friend the charlatan.txt
+1901 penelope's irish experiences.txt
+1901 sister teresa.txt
+1901 the man from glengarry.txt
+1901 the right of way.txt
+1901 the velvet glove.txt
+1901 the wouldbegoods.txt
+1902 five children and it.txt
+1902 glengarry schooldays.txt
+1902 paul kelver.txt
+1902 temporal power.txt
+1902 the diary of a goose girl.txt
+1902 the mississippi bubble.txt
+1902 the splindid idle forties.txt
+1902 the surprising adventures of the magical monarch of mo and his people.txt
+1902 the valley of decision.txt
+1902 the vultures.txt
+1903 barlasch of the guard.txt
+1903 darrel of the blessed isles.txt
+1903 lady rose's daughter.txt
+1903 pearl-maiden.txt
+1903 rebecca of sunnybrook farm.txt
+1903 sanctuary.txt
+1903 the enchanted island of yew.txt
+1903 the heart of rome.txt
+1903 the log of a cowboy.txt
+1903 the private papers of henry ryecroft.txt
+1904 a texas matchmaker.txt
+1904 god's good man.txt
+1904 stella fregelius.txt
+1904 the brethren.txt
+1904 the last hope.txt
+1904 the law of the land.txt
+1904 the phoenix and the carpet.txt
+1904 the prospector.txt
+1904 tommy and co.txt
+1904 vergilius.txt
+1905 ayesha.txt
+1905 heart's desire.txt
+1905 the house of mirth.txt
+1905 the marriage of william ashe.txt
+1905 the outlet.txt
+1905 will warburton.txt
+1906 a rock in the baltic.txt
+1906 aunt jane's nieces abroad.txt
+1906 aunt jane's nieces.txt
+1906 benita.txt
+1906 fenwick's career.txt
+1906 rezanov.txt
+1906 sir nigel.txt
+1906 the dawn of a tomorrow.txt
+1906 the doctor.txt
+1906 the incomplete amorist.txt
+1906 the railway children.txt
+1906 the shuttle.txt
+1906 the story of the amulet.txt
+1907 fair margeret.txt
+1907 madame de treymes.txt
+1907 new chronicles of rebecca.txt
+1907 ozma of oz.txt
+1907 reed anthony cowman.txt
+1907 the enchanted castle.txt
+1907 the old peabody pew.txt
+1907 the way of a man.txt
+1907 the weavers.txt
+1908 dorothy and the wizard in oz.txt
+1908 the ghost kings.txt
+1908 the testing of diana mallory.txt
+1908 the yellow god.txt
+1909 54-40 or fight!.txt
+1909 homespun tales.txt
+1909 northern lights.txt
+1909 the foreigner.txt
+1909 the lady of blossholme.txt
+1909 the secret garden.txt
+1909 they and i.txt
+1910 morning star.txt
+1910 queen sheba's ring.txt
+1910 the emerald city of oz.txt
+1910 the purchase price.txt
+1910 the sword maker.txt
+1911 aunt jane's nieces and uncle john.txt
+1911 ethan frome.txt
+1911 keeping up with lizzie.txt
+1911 mother carey's chickens.txt
+1911 the case of richard meynell.txt
+1911 the life everlasting.txt
+1911 wells brothers.txt
+1912 aunt jane's nieces on vacation.txt
+1912 corporal cameron of the north west mounted police.txt
+1912 sky island.txt
+1912 the lost world.txt
+1912 the reef.txt
+1913 roden's corner.txt
+1913 the coryston family.txt
+1913 the custom of the country.txt
+1913 the judgment house.txt
+1913 the mating of lydia.txt
+1913 the patrol of the sundance trail.txt
+1913 the poison belt.txt
+1913 the woman thou gavest me.txt
+1913 t tembarom.txt
+1914 a summer in a canyon.txt
+1914 delia blanchflower.txt
+1914 innocent.txt
+1914 the lost prince.txt
+1915 a great success.txt
+1915 penelope's postscripts.txt
+1915 the scarecrow of oz.txt
+1916 lady connie.txt
+1916 mary louise.txt
+1917 summer.txt
+1917 the light in the clearing.txt
+1917 the major.txt
+1918 the passing of the frontier.txt
+1918 the white morning.txt
+1918 the world for sale.txt
+1918 wild youth.txt
+1919 all roads lead to calvary.txt
+1919 the avalanche.txt
+1920 the age of innocence.txt
+1920 the white people.txt
+1921 no defence.txt
+1921 the secret power.txt
+1921 the sisters-in-law.txt
+1921 to him that hath.txt
+1922 in the days of poor richard.txt
+1922 sleeping fires.txt
+1922 the covered wagon.txt
+1922 the glimpses of the moon.txt
+1922 the head of the house of coombe.txt
