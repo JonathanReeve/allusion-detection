@@ -1,0 +1,382 @@
+
+==Hebrew Bible==
+
+{{Navbox
+| name      = Adam to David
+| title     = [[Generations of Adam|Adam]] to [[David]] according to the [[Bible]]
+| listclass = hlist
+| state = {{{state|<noinclude>uncollapsed</noinclude>}}}
+
+| group1 = [[Genesis creation narrative|Creation]] to  [[Noah's Ark|Flood]] 
+| list1  = 
+* [[Adam]]
+* [[Seth]]
+* [[Enos (biblical figure)|Enos]]
+* [[Kenan]]
+* [[Mahalalel]]
+* [[Jared (biblical figure)|Jared]]
+* [[Enoch (ancestor of Noah)|Enoch]]
+* [[Methuselah]]
+* [[Lamech (father of Noah)|Lamech]]
+* [[Noah]]
+* [[Shem]] 
+
+| group2 = [[Cain and Abel|Cain]] line
+| list2  = 
+* [[Adam]]
+* [[Cain and Abel|Cain]]
+* [[Enoch (son of Cain)|Enoch]]
+* [[Irad, Son of Enoch|Irad]]
+* [[Mehujael]]
+* [[List of minor biblical figures#Methusael|Methusael]] 
+* [[Lamech (descendant of Cain)|Lamech]]
+* [[Tubal-cain]] 
+
+| group3 = [[Patriarchs (Bible)|Patriarchs]] after [[Noah's Ark|Flood]] 
+| list3  = 
+* [[Arpachshad]]
+* ''[[Cainan]]''
+* [[Salah (biblical figure)|Shelah]]
+* [[Eber]]
+* [[Peleg]]
+* [[Reu]]
+* [[Serug]]
+* [[Nahor, son of Serug|Nahor]]
+* [[Terah]]
+* [[Abraham]]
+* [[Isaac]]
+* [[Jacob]] 
+| below  = Names in ''italics'' only appear in the Greek [[Septuagint]] version
+
+| group4 = [[Tribe of Judah]] to [[Kingdom of Israel (united monarchy)|Kingship]]
+| list4  = 
+* [[Judah (biblical person)|Judah]]
+* [[Perez (son of Judah)|Perez]]
+* [[Hezron]]
+* [[Ram (biblical figure)|Ram]]
+* [[Amminadab]]
+* [[Nahshon]]
+* [[Salmon (biblical figure)|Salmon]]
+* [[Boaz]]
+* [[Obed (biblical figure)|Obed]]
+* [[Jesse]]
+* '''[[David]]''' 
+
+}}<noinclude>
+{{documentation}}
+</noinclude>
+
+===Prophets===
+{{Prophets of the Tanakh|state=expanded|categories=no}}
+
+
+{{Navbox
+| name = Prophets of the Tanakh
+| state = {{{state|collapsed}}}
+| title = [[:Category:Prophets of the Hebrew Bible|Prophets in the Hebrew Bible]]
+| listclass = hlist
+
+| group1 = Pre-Patriarchal
+| list1 =
+*''[[Cain and Abel|Abel]]''
+*''[[Kenan]]''
+*''[[Enoch (ancestor of Noah)|Enoch]]''
+*''{{rablit|Noah}}''
+
+| group2 = [[Patriarchs (Bible)|Patriarch]]s{{\}}[[Matriarchs (Bible)#Matriarchs|Matriarch]]s 
+| list2 =
+*[[Abraham]]
+*[[Isaac]]
+*[[Jacob]]
+*''[[Joseph (patriarch)|Joseph]]''
+*''[[Sarah]]''
+*''[[Rebecca]]''
+*''[[Rachel]]''
+*''[[Leah]]''
+
+| group3 = {{longitem|Israelite prophets<br/>in the [[Torah]]}}
+| list3 =
+*{{rablit|Moses}}
+*[[Aaron]]
+*[[Miriam]]
+*[[Eldad and Medad]]
+*[[Phinehas]]
+
+| group4 = {{longitem|Mentioned in the<br/>[[Nevi'im#Former Prophets|Former Prophets]]}}
+| list4 =
+*[[Joshua]]
+*[[Deborah]]
+*''[[Gideon]]''
+*''[[Eli (biblical figure)|Eli]]''
+*''[[Elkanah]]''
+*''[[Hannah (biblical figure)|Hannah]]''
+*''[[Abigail]]''
+*[[Samuel]]
+*[[Gad (prophet)|Gad]]
+*[[Nathan (prophet)|Nathan]]
+*[[David]]
+*[[Solomon]]
+*[[Jeduthun]]
+*[[Ahijah the Shilonite|Ahijah]]
+*[[Elijah]]
+*[[Elisha]]
+*[[Shemaiah (prophet)|Shemaiah]]
+*[[Iddo (prophet)|Iddo]]
+*[[Hanani]]
+*[[Jehu (prophet)|Jehu]]
+*[[Micaiah]]
+*[[Jahaziel]]
+*[[Eliezer]]
+*[[Zechariah ben Jehoiada]]
+*[[Huldah]]
+
+| group5 = [[Major prophet|Major]]
+| list5 =
+*{{rablit|Isaiah}}
+*[[Jeremiah]]
+*[[Ezekiel]]
+*{{rablit|Daniel (biblical figure)|Daniel}}
+
+| group6 = [[Minor prophet|Minor]]
+| list6 =
+*[[Hosea]]
+*[[Joel (prophet)|Joel]]
+*[[Amos (prophet)|Amos]]
+*[[Obadiah]]
+*{{rablit|Jonah}}
+*[[Micah (prophet)|Micah]]
+*[[Nahum]]
+*[[Habakkuk]]
+*[[Zephaniah]]
+*[[Haggai]]
+*[[Zechariah (Hebrew prophet)|Zechariah]]
+*[[Malachi]]
+
+| group7 = [[Noahidism|Noahide]]
+| list7 =
+*''[[Beor (biblical figure)|Beor]]''
+*[[Balaam]]
+*''{{rablit|Job (biblical figure)|Job}}''
+
+| group8 = Other
+| list8 =
+*''[[Amoz]]''
+*''[[Beeri]]''
+*''[[Baruch ben Neriah|Baruch]]''
+*''[[Agur]]''
+*[[Urijah|Uriah]]
+*''[[Buzi]]''
+*''[[Mordecai]]''
+*''{{rablit|Esther}}''
+*[[Oded (prophet)|Oded]]
+*[[Azariah (prophet)|Azariah]]
+
+| below = ''Italics'' indicate persons whose status as [[prophet]]s is not universally accepted.
+
+}}<includeonly>{{#if:{{{1|}}} | |{{user other||[[Category:Prophets of the Hebrew Bible]]}} }}</includeonly><noinclude>
+
+{{documentation}}
+</noinclude>
+
+===Kings===
+{{Rulers of Ancient Israel|state=expanded|categories=no}}
+
+
+{{Navbox
+| name      = Rulers of Ancient Israel
+| title     = Rulers of [[History of ancient Israel and Judah|Ancient Israel]]
+| listclass = hlist
+| state     = {{{state|autocollapse}}}
+
+| group1 = Pre-dynastic
+| list1  =
+* ''[[Abimelech (Judges)|Abimelech]]''
+
+| group2 = [[Kingdom of Israel (united monarchy)|United monarchy]]
+| list2  =
+* [[Saul]]
+* [[Ish-bosheth]]
+* [[David]]
+* [[Solomon]]
+
+| group3 = [[Kingdom of Israel (Samaria)|Israel<br>(northern kingdom)]]
+| list3  =
+* [[Jeroboam|Jeroboam I]]
+* [[Nadab of Israel|Nadab]]
+* [[Baasha of Israel|Baasha]]
+* [[King Elah|Elah]]
+* [[Zimri (king)|Zimri]]
+* ''[[Tibni]]''
+* [[Omri (King of Israel)|Omri]]
+* [[Ahab]]
+* [[Ahaziah of Israel|Ahaziah]]
+* [[Jehoram of Israel|Jehoram]]
+* [[Jehu]]
+* [[Jehoahaz of Israel|Jehoahaz]]
+* [[Jehoash of Israel|Jehoash]]
+* [[Jeroboam II]]
+* [[Zechariah of Israel|Zechariah]]
+* [[Shallum of Israel|Shallum]]
+* [[Menahem]]
+* [[Pekahiah]]
+* [[Pekah]]
+* [[Hoshea]]
+
+| group4 = [[Kings of Judah|Judah<br>(southern kingdom)]]
+| list4  =
+* [[Rehoboam]]
+* [[Abijah of Judah|Abijam]]
+* [[Asa of Judah|Asa]]
+* [[Jehoshaphat]]
+* [[Jehoram of Judah|Jehoram]]
+* [[Ahaziah of Judah|Ahaziah]]
+* ''[[Athaliah]]''
+* [[Jehoash of Judah|Jehoash]]
+* [[Amaziah of Judah|Amaziah]]
+* [[Uzziah]]
+* [[Jotham of Judah|Jotham]]
+* [[Ahaz]]
+* [[Hezekiah]]
+* [[Manasseh of Judah|Manasseh]]
+* [[Amon of Judah|Amon]]
+* [[Josiah]]
+* [[Jehoahaz of Judah|Jehoahaz]]
+* [[Jehoiakim]]
+* [[Jeconiah]]
+* [[Zedekiah]]
+
+| group5 = [[Hasmonean dynasty]]
+| list5  =
+* ''[[Simon Maccabaeus]]''
+* ''[[John Hyrcanus]]''
+* [[Aristobulus I]]
+* [[Alexander Jannaeus]]
+* [[Salome Alexandra]]
+* [[Hyrcanus II]]
+* ''[[Aristobulus II]]''
+* [[Antigonus II Mattathias]]
+
+| group6 = [[Herodian dynasty]]
+| list6  =
+* [[Herod the Great]]
+* ''[[Herod Archelaus|Archelaus]]''
+* ''[[Herod Antipas|Antipas]]''
+* ''[[Philip the Tetrarch]]''
+* ''[[Salome I]]''
+* [[Herod Agrippa|Agrippa]]
+* [[Herod Agrippa II|Agrippa II]]
+
+| group7 = Post–Second Temple era
+| list7  =
+* ''[[Simon bar Kokhba]]''
+| below = ''Italics'' indicate a disputed reign or non-royal title
+}}{{main other|
+[[Category:Kings of ancient Israel]]
+[[Category:Kings of ancient Judah]]
+}}<noinclude>
+{{collapsible option}}
+[[Category:Biblical rulers navigational boxes]]
+[[Category:Jews and Judaism templates]]
+</noinclude>
+
+
+===Priests===
+* [[Aaron]]
+* [[Eleazar]]
+* [[Eli (Judges)|Eli]]
+* [[Phinehas]]
+
+===Tribes of Israel===
+According to the [[Book of Genesis]], the [[Israelites]] were descendants of the sons of [[Jacob]], who was renamed Israel after [[Jacob wrestling with the angel|wrestling with an angel]]. His twelve male children [[myth of origin|become the ancestors]] of the Twelve Tribes of Israel.
+
+* [[Tribe of Asher|Asher]]
+* [[Tribe of Benjamin|Benjamin]]
+* [[Tribe of Dan|Dan]]
+* [[Tribe of Gad|Gad]]
+* [[Tribe of Issachar|Issachar]]
+* [[Tribe of Joseph|Joseph]], which was split into two tribes descended from his sons:
+** [[Tribe of Ephraim]]
+** [[Tribe of Menasheh]]
+* [[Tribe of Judah|Judah]]
+* [[Tribe of Levi|Levi]]
+* [[Tribe of Naphtali|Naphtali]]
+* [[Tribe of Reuben|Reuben]]
+* [[Tribe of Simeon|Simeon]]
+* [[Tribe of Zebulun|Zebulun]]
+
+==New Testament==
+{{New Testament people|expanded}}
+
+===Jesus and his relatives===
+[[Jesus]]
+* [[Mary, mother of Jesus]]
+* [[Saint Joseph|Joseph]]
+* [[Brothers of Jesus]]
+** [[James the Just]]
+** [[Jude (brother of Jesus)|Jude]]
+* [[Mary of Clopas]]
+
+===Apostles of Jesus===
+The Twelve:<ref>[http://bible.gospelcom.net/bible?Matthew+10:2-4;Mark+3:16-19;Luke+6:14-16;Acts+1:13 Matthew 10:2-4, Mark 3:16-19, Luke 6:14-16, Acts 1:13]</ref>
+*[[Saint Peter|Peter]] (a.k.a. Simon or Cephas)
+*[[Saint Andrew|Andrew]] (Simon Peter's brother)
+*[[Saint James the Great|James, son of Zebedee]]
+*[[John the Evangelist|John]], son of Zebedee
+*[[Philip the Apostle|Philip]]
+*[[Bartholomew]]
+*[[Thomas (apostle)|Thomas]] also known as "Doubting Thomas"
+*[[Matthew the Evangelist|Matthew]]
+*[[St. James the Less|James, son of Alphaeus]]
+*[[Saint Jude|Judas, son of James]] (a.k.a. Thaddeus or Lebbaeus)
+*[[Simon the Zealot]]
+*[[Judas Iscariot]] (the traitor)
+
+Others:
+* [[Saint Matthias|Matthias]]<ref>Matthias is the apostle who replaced Judas Iscariot. [http://bible.gospelcom.net/bible?Acts+1:15-26 Acts 1:15-26]</ref>
+*[[Paul of Tarsus|Paul]]<ref>Paul is a self-described apostle.[http://bible.gospelcom.net/bible?Rom+1:1;1Cor+1:1;2Cor+1:1;Gal+1:1;Eph+1:1;Col+1:1;1Tim+1:1;2Tim+1:1;Titus+1:1 Rom 1:1, 1 Cor 1:1, 2 Cor 1:1, Gal 1:1, Eph 1:1, Col 1:1, 1 Tim 1:1, 2 Tim 1:1, and Titus 1:1]</ref>
+*[[Barnabas]]<ref>Described as an apostle alongside Paul; see Acts 14:14; Gal 2:9; 1 Cor 9:5-6.</ref>
+*[[James the Just|James, the Lord's Brother]]<ref>Paul refers to him as an apostle; see Gal 1:19; 1 Cor 9:5; see also Jas 1:1.</ref>
+*[[Jude (brother of Jesus)|Jude, the Lord's Brother]] <ref>Alongside James, included as one of the brothers of Jesus who were apostles; see 1 Cor 9:5 and Jude 1:1.</ref>
+
+===Priests===
+* [[Caiaphas]], high priest
+* [[Annas]], first high priest of [[Roman Judea]]
+* [[Zechariah (priest)|Zechariah]], father of John the Baptist
+
+===Prophets===
+* [[Agabus]]
+* [[Anna (Bible)|Anna]]
+* [[Simeon (Gospel of Luke)|Simeon]]
+* [[John the Baptist]]
+
+===Other believers===
+
+* [[Apollos]]
+* [[Priscilla and Aquila|Aquila]]
+* [[Dionysius the Areopagite]]
+* [[Epaphras]], fellow prisoner of Paul ({{bibleref|Philemon|1:23|NIV}}), fellow worker ({{bibleref|Colossians|4:12-13|NIV}})
+* [[Joseph of Arimathea]]
+* [[Lazarus of Bethany|Lazarus]]
+* [[Luke the Evangelist|Luke]]
+* [[Mark the Evangelist|Mark]]
+* [[Martha]]
+* [[Mary Magdalene]]
+* [[Mary, sister of Martha]]
+* [[Nicodemus]]
+* [[Onesimus]]
+* [[Philemon of Colossae|Philemon]]
+* [[Priscilla (Christian)|Priscilla]]
+* [[Silas]]
+* [[Sopater]]
+* [[Saint Stephen|Stephen]], first martyr
+* [[Saint Timothy|Timothy]]
+* [[Saint Titus|Titus]]
+
+===Secular rulers===
+{{See also|Herod (disambiguation){{!}}Herod}}
+* [[Herod the Great]]
+* [[Herod Antipas]], called "Herod the Tetrarch" or "Herod" in the [[Canonical gospels|Gospels]] and in Acts 4:27
+* [[Pontius Pilate]]
+* [[Agrippa I]], called "King Herod" or "Herod" in Acts 12
+* [[Herod Agrippa II]], king over several territories, before whom Paul made his defense in Acts 26.
+* [[Antonius Felix|Felix]] governor of Judea who was present at the trial of Paul, and his wife [[Drusilla (daughter of Herod Agrippa I)|Drusilla]] in Acts 24:24
